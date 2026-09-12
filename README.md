@@ -23,7 +23,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0002 | [Add Two Numbers](./LINKEDLIST/0002-AddTwoNumbers.cpp) | C++ |
 | 0019 | [Remove Nth Node From End of List](./LINKEDLIST/0019-DeleteFromLastKNode.cpp) | C++ |
-| 0021 | [Merge Two Sorted Lists](./LINKEDLIST/0021-mergeTwoList.cpp) | C++ |
+| 0021 | [Merge Two Sorted Lists](./LINKEDLIST/0021-MergeTwoList.cpp) | C++ |
 | 0023 | [Merge k Sorted Lists](./LINKEDLIST/0023-MergeKList.cpp) | C++ |
 | 0024 | [Swap Nodes in Pairs](./LINKEDLIST/0024-SwapNodeInPairs.cpp) | C++ |
 | 0025 | [Reverse Nodes in k-Group](./LINKEDLIST/0025-ReverseKGroup.cpp) | C++ |
