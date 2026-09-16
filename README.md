@@ -49,3 +49,93 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1290 | [Convert Binary Number in a Linked List to Integer](./LINKEDLIST/1290-ConvertBinaryInALinkedListToInteger.cpp) | C++ |
 | 2058 | [Minimum Distance Between Critical Points](./LINKEDLIST/2058-MinimumDistanceBetweenCriticalPoint.cpp) | C++ |
 | 2095 | [Delete the Middle Node of a Linked List](./LINKEDLIST/2095-DeleteMiddleNodeOfALinkedList.cpp) | C++ |
+
+---
+
+## 📚 Backtracking
+
+| # | Problem | Solution |
+|---|---|---|
+| 0017 | [Letter Combination Of Phone Number](./BACKTRACKING/0017-LetterCombinationOfPhoneNumber.cpp) | C++ |
+| 0037 | [Sudoku Solver](./BACKTRACKING/0037-SudokuSolver.cpp) | C++ |
+| 0039 | [Combination Sum](./BACKTRACKING/0039-CombinationSum.cpp) | C++ |
+| 0040 | [Combination Sum 2](./BACKTRACKING/0040-CombinationSum2.cpp) | C++ |
+| 0046 | [Permutations](./BACKTRACKING/0046-Permutations.cpp) | C++ |
+| 0047 | [Permutations 2](./BACKTRACKING/0047-Permutations2.cpp) | C++ |
+| 0051 | [N Queen](./BACKTRACKING/0051-NQueen.cpp) | C++ |
+| 0052 | [N Queen 2](./BACKTRACKING/0052-NQueen2.cpp) | C++ |
+| 0078 | [Subsets](./BACKTRACKING/0078-Subsets.cpp) | C++ |
+| 0079 | [Word Search](./BACKTRACKING/0079-WordSearch.cpp) | C++ |
+| 0090 | [Subset 2](./BACKTRACKING/0090-Subset2.cpp) | C++ |
+| 0131 | [Palindrome Partition](./BACKTRACKING/0131-PalindromePartition.cpp) | C++ |
+| 0216 | [Combination Sum 3](./BACKTRACKING/0216-CombinationSum3.cpp) | C++ |
+| 0698 | [Partition To K Equal Sum Subset](./BACKTRACKING/0698-PartitionToKEqualSumSubset.cpp) | C++ |
+| 0784 | [Letter Case Permutation](./BACKTRACKING/0784-LetterCasePermutation.cpp) | C++ |
+
+---
+
+## 📚 Matrix
+
+| # | Problem | Solution |
+|---|---|---|
+| 0048 | [Rotate Image](./MATRIX/0048-RotateImage.cpp) | C++ |
+| 0054 | [Spiral Matrix](./MATRIX/0054-SpiralMatrix.cpp) | C++ |
+| 0059 | [Spiral Matrix 2](./MATRIX/0059-SpiralMatrix2.cpp) | C++ |
+| 0073 | [Set Matrix Zero](./MATRIX/0073-SetMatrixZero.cpp) | C++ |
+| 0289 | [Game Of Life](./MATRIX/0289-GameOfLife.cpp) | C++ |
+| 0304 | [Range Sum Query 2D - Immutable](./MATRIX/0304-RangeSumQuery2D-Immutable.cpp) | C++ |
+| 0498 | [Diagonal Traverse](./MATRIX/0498-DiagonalTraverse.cpp) | C++ |
+| 0566 | [Reshape The Matrix](./MATRIX/0566-ReshapeTheMatrix.cpp) | C++ |
+| 0657 | [Robot Return To Origin](./MATRIX/0657-RobotReturnToOrigin.cpp) | C++ |
+| 0661 | [Image Smoother](./MATRIX/0661-ImageSmoother.cpp) | C++ |
+| 0766 | [Toeplitz Matrix](./MATRIX/0766-ToeplitzMatrix.cpp) | C++ |
+| 0832 | [Flipping An Image](./MATRIX/0832-FlippingAnImage.cpp) | C++ |
+| 0840 | [Magic Square In A Grid](./MATRIX/0840-MagicSquareInAGrid.cpp) | C++ |
+| 0867 | [Transpose Matrix](./MATRIX/0867-TransposeMatrix.cpp) | C++ |
+| 0885 | [Spiral Matrix 3](./MATRIX/0885-SpiralMatrix3.cpp) | C++ |
+| 0999 | [Available Capture For Rook](./MATRIX/0999-AvailableCaptureForRook.cpp) | C++ |
+| 1260 | [Shift 2D Grid](./MATRIX/1260-Shift2DGrid.cpp) | C++ |
+| 1275 | [Find Winner Of Tic Tac Toe Game](./MATRIX/1275-FindWinnerOfTicTacToeGame.cpp) | C++ |
+| 1314 | [Matrix Block Sum](./MATRIX/1314-MatrixBlockSum.cpp) | C++ |
+| 1380 | [Lucky Number Of Matrix](./MATRIX/1380-LuckyNumberOfMatrix.cpp) | C++ |
+| 1572 | [Matrix Diagonal Sum](./MATRIX/1572-MatrixDiagonalSum.cpp) | C++ |
+| 1582 | [Special Positions In Binary Matrix](./MATRIX/1582-SpecialPositionInBinaryMatrix.cpp) | C++ |
+| 1672 | [Richest Customer Wealth](./MATRIX/1672-RichestCustomerWealth.cpp) | C++ |
+| 2643 | [Row With Max Ones](./MATRIX/2643-RowWithMaxOnes.cpp) | C++ |
+| 3033 | [Modify The Matrix](./MATRIX/3033-ModifyTheMatrix.cpp) | C++ |
+
+---
+
+## 📚 Bit Manipulation
+
+| # | Problem | Solution |
+|---|---|---|
+| 0089 | [Gray Code](./BITMANIPULATION/0089-GrayCode.cpp) | C++ |
+| 0136 | [Single Number](./BITMANIPULATION/0136-SingleNumber.cpp) | C++ |
+| 0137 | [Single Number 2](./BITMANIPULATION/0137-SingleNumber2.cpp) | C++ |
+| 0190 | [Reverse Bits](./BITMANIPULATION/0190-ReverseBits.cpp) | C++ |
+| 0191 | [Number Of 1 Bits](./BITMANIPULATION/0191-NumberOf1Bits.cpp) | C++ |
+| 0201 | [Bitwise AND Of Number Range](./BITMANIPULATION/0201-BitwiseANDOfNumberRange.cpp) | C++ |
+| 0231 | [Power Of Two](./BITMANIPULATION/0231-PowerOfTwo.cpp) | C++ |
+| 0260 | [Single Number 3](./BITMANIPULATION/0260-SingleNumber3.cpp) | C++ |
+| 0338 | [Counting Bits](./BITMANIPULATION/0338-CountingBits.cpp) | C++ |
+| 0342 | [Power Of Four](./BITMANIPULATION/0342-PowerOfFour.cpp) | C++ |
+| 0371 | [Sum Of Two Integers](./BITMANIPULATION/0371-SumOfTwoIntegers.cpp) | C++ |
+| 0393 | [UTF-8 Validation](./BITMANIPULATION/0393-UTF-8Validation.cpp) | C++ |
+| 0401 | [Binary Watch](./BITMANIPULATION/0401-BinaryWatch.cpp) | C++ |
+| 0476 | [Number Complement](./BITMANIPULATION/0476-NumberComplement.cpp) | C++ |
+| 0477 | [Total Hamming Distance](./BITMANIPULATION/0477-TotalHammingDistance.cpp) | C++ |
+| 0693 | [Binary Number With Alternating Bits](./BITMANIPULATION/0693-BinaryNumberWithAlternatingBits.cpp) | C++ |
+| 0869 | [Reordered Power Of 2](./BITMANIPULATION/0869-ReorderedPowerOf2.cpp) | C++ |
+| 1009 | [Complement Of A Base 10 Integer](./BITMANIPULATION/1009-ComplementOfABase10Integer.cpp) | C++ |
+| 1238 | [Circular Permutation In Binary Representation](./BITMANIPULATION/1238-CircularPermutationInBinaryRepresentation.cpp) | C++ |
+| 1310 | [XOR Queries Of A Subarray](./BITMANIPULATION/1310-XORQueryOfASubarray.cpp) | C++ |
+| 1318 | [Minimum Bits Flip To Make A Or B Equal To C](./BITMANIPULATION/1318-MinimumBitsFlipToMakeAOrBEqualToC.cpp) | C++ |
+| 1611 | [Minimum One Bit Operation To Make Integer Zero](./BITMANIPULATION/1611-MinimumOneBitOperationToMakeIntegerZero.cpp) | C++ |
+| 1720 | [Decode XORed Array](./BITMANIPULATION/1720-DecodeXORedArray.cpp) | C++ |
+| 1734 | [Decode XORed Permutation](./BITMANIPULATION/1734-DecodeXORedPermutations.cpp) | C++ |
+| 1835 | [Find XOR Sum Of All Pairs Bitwise AND](./BITMANIPULATION/1835-FindXORSumOfAllPairsBitwiseAND.cpp) | C++ |
+| 1922 | [Count Good Numbers](./BITMANIPULATION/1922-CountGoodNumbers.cpp) | C++ |
+| 2220 | [Minimum Bits Flip To Convert A Number](./BITMANIPULATION/2220-MinimumBitsFlipToConvertANumber.cpp) | C++ |
+| 2411 | [Smallest Subarrays With Maximum Bitwise OR](./BITMANIPULATION/2411-SmallestSubarraysWithMaximumBitwiseOR.cpp) | C++ |
+| 2732 | [Find A Good Subset Of The Matrix](./BITMANIPULATION/2732-FindAGoodSubsetOfMatrix.cpp) | C++ |
