@@ -139,3 +139,20 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 2220 | [Minimum Bits Flip To Convert A Number](./BITMANIPULATION/2220-MinimumBitsFlipToConvertANumber.cpp) | C++ |
 | 2411 | [Smallest Subarrays With Maximum Bitwise OR](./BITMANIPULATION/2411-SmallestSubarraysWithMaximumBitwiseOR.cpp) | C++ |
 | 2732 | [Find A Good Subset Of The Matrix](./BITMANIPULATION/2732-FindAGoodSubsetOfMatrix.cpp) | C++ |
+
+---
+
+## 📚 Recursion
+
+| # | Problem | Solution |
+|---|---|---|
+| 0022 | [Generate Parentheses](./RECURSION/0022-GenerateParantheses.cpp) | C++ |
+| 0034 | [Find First And Last Position Of Element In Sorted Array](./RECURSION/0034-FindFirstAndLastPositionOfElementInSortedArray.cpp) | C++ |
+| 0050 | [Pow(X,N)](./RECURSION/0050-Pow(X,N).cpp) | C++ |
+| 0509 | [Fibonacci Number](./RECURSION/0509-FibonacciNumber.cpp) | C++ |
+| 0779 | [K-th Symbol In Grammar](./RECURSION/0779-KthSymbolInGrammar.cpp) | C++ |
+| 1486 | [XOR Operation In An Array](./RECURSION/1486-XOROperationInAnArray.cpp) | C++ |
+| 1863 | [Sum Of All Subset XOR Totals](./RECURSION/1863-SumOfAllSubsetXORTotal.cpp) | C++ |
+| 1922 | [Count Good Numbers](./RECURSION/1922-CountGoodNumber.cpp) | C++ |
+| 1979 | [Find Greatest Common Divisor Of Array](./RECURSION/1979-FindGreatestCommonDivisorOfArray.cpp) | C++ |
+| 2596 | [Check Knight Tour Configuration](./RECURSION/2596-CheckKnightTourConfiguration.cpp) | C++ |
