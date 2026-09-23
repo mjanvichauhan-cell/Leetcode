@@ -9,11 +9,11 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0232 | [Implement Queue using Stacks](./QUEUE/0232-ImplementQueueUsingStack.cpp) | C++ |
 | 0239 | [Sliding Window Maximum](./QUEUE/0239-SlidingWindowMaximum.cpp) | C++ |
 | 0622 | [Design Circular Queue](./QUEUE/0622-DesignCircularQueue.cpp) | C++ |
-| 0641 | [Design Circular Deque](./QUEUE/0641-DesignCircularDeque.cpp) | C++ |
+| 0641 | [Design Circular Deque](./QUEUE/0641-DesignCircluarDequeue.cpp) | C++ |
 | 0649 | [Dota2 Senate](./QUEUE/0649-Dota2Senate.cpp) | C++ |
 | 0933 | [Number of Recent Calls](./QUEUE/0933-NumberOfRecentCalls.cpp) | C++ |
 | 0950 | [Reveal Cards In Increasing Order](./QUEUE/0950-RevealCardIncreasingOrder.cpp) | C++ |
-| 1438 | [Longest Continuous Subarray With Absolute Diff Equal to or Less Than Limit](./QUEUE/1438-LongestContinuousSubarrayWithAbsoluteDiffEqualToOrLessThanLimit.cpp) | C++ |
+| 1438 | [Longest Continuous Subarray With Absolute Diff Equal to or Less Than Limit](./QUEUE/1438-LongestContinousSubarrayWithAbsoluteDiffEqualToOrLessThanLimit.cpp) | C++ |
 | 1700 | [Number of Student Unable To eat Lunch](./QUEUE/1700-NumberOfStudentUnableToEatLunch.cpp) | C++ |
 | 2073 | [Time Needed To Buy Tickets](./QUEUE/2073-TimeNeededToBuyTicket.cpp) | C++ |
 
