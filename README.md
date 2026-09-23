@@ -8,7 +8,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0232 | [Implement Queue using Stacks](./QUEUE/0232-ImplementQueueUsingStack.cpp) | C++ |
 | 0239 | [Sliding Window Maximum](./QUEUE/0239-SlidingWindowMaximum.cpp) | C++ |
-| 0622 | [Design Circular Queue](./QUEUE/0622-DesignCircularQueue.cpp) | C++ |
+| 0622 | [Design Circular Queue](./QUEUE/0622-DesignCircluarQueue.cpp) | C++ |
 | 0641 | [Design Circular Deque](./QUEUE/0641-DesignCircluarDequeue.cpp) | C++ |
 | 0649 | [Dota2 Senate](./QUEUE/0649-Dota2Senate.cpp) | C++ |
 | 0933 | [Number of Recent Calls](./QUEUE/0933-NumberOfRecentCalls.cpp) | C++ |
@@ -135,7 +135,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1009 | [Complement Of A Base 10 Integer](./BITMANIPULATION/1009-ComplementOfABase10Integer.cpp) | C++ |
 | 1238 | [Circular Permutation In Binary Representation](./BITMANIPULATION/1238-CircularPermutationInBinaryRepresentation.cpp) | C++ |
 | 1310 | [XOR Queries Of A Subarray](./BITMANIPULATION/1310-XORQueryOfASubarray.cpp) | C++ |
-| 1318 | [Minimum Bits Flip To Make A Or B Equal To C](./BITMANIPULATION/1318-MinimumBitsFlipToMakeAOrBEqualToC.cpp) | C++ |
+| 1318 | [Minimum Bits Flip To Make A Or B Equal To C](./BITMANIPULATION/1318-MinimumBitsFlipToMakeAORBEqualToC.cpp) | C++ |
 | 1611 | [Minimum One Bit Operation To Make Integer Zero](./BITMANIPULATION/1611-MinimumOneBitOperationToMakeIntegerZero.cpp) | C++ |
 | 1720 | [Decode XORed Array](./BITMANIPULATION/1720-DecodeXORedArray.cpp) | C++ |
 | 1734 | [Decode XORed Permutation](./BITMANIPULATION/1734-DecodeXORedPermutations.cpp) | C++ |
