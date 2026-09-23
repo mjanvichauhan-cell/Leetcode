@@ -164,6 +164,101 @@ My solutions to LeetCode problems in C++, organized by problem number.
 
 ---
 
-## 📚 Maths
+## 🔢 Maths
 
+| # | Problem | Solution |
+|---|---|---|
+| 0007 | [Reverse Integer](./MATHS/0007-ReverseInteger.cpp) | C++ |
+| 0009 | [Palindrome Number](./MATHS/0009-PalindromeNumber.cpp) | C++ |
+| 0069 | [SQRT(X)](./MATHS/0069-SQRT(X).cpp) | C++ |
+| 0172 | [Factorial Trailing Zeros](./MATHS/0172-FactorialTrailingZeros.cpp) | C++ |
+| 0204 | [Count Primes](./MATHS/0204-CountPrimes.cpp) | C++ |
+| 0231 | [Power Of 2](./MATHS/0231-PowerOf2.cpp) | C++ |
+| 0233 | [Number Of Digit One](./MATHS/0233-NumberOfDigitOne.cpp) | C++ |
+| 0258 | [Add Digits](./MATHS/0258-AddDigits.cpp) | C++ |
+| 0263 | [Ugly Number](./MATHS/0263-UglyNumber.cpp) | C++ |
+| 0292 | [Nim Game](./MATHS/0292-NimGame.cpp) | C++ |
+| 0319 | [Bulb Switcher](./MATHS/0319-BulbSwitcher.cpp) | C++ |
+| 0326 | [Power Of Three](./MATHS/0326-PowerOfThree.cpp) | C++ |
+| 0335 | [Self Crossing](./MATHS/0335-SelfCrossing.cpp) | C++ |
+| 0342 | [Power Of Four](./MATHS/0342-PowerOfFour.cpp) | C++ |
+| 0412 | [Fizz Buzz](./MATHS/0412-FizzBuzz.cpp) | C++ |
+| 0458 | [Poor Pigs](./MATHS/0458-PoorPigs.cpp) | C++ |
+| 0507 | [Perfect Number](./MATHS/0507-PerfectNumber.cpp) | C++ |
+| 0754 | [Reach A Number](./MATHS/0754-ReachANumber.cpp) | C++ |
+| 0858 | [Mirror Reflection](./MATHS/0858-MirrorReflection.cpp) | C++ |
+| 1281 | [Subtract The Product And Sum Of An Integer](./MATHS/1281-SubtractTheProductAndSumOfAnInteger.cpp) | C++ |
+| 1523 | [Count Odd Number In An Interval Range](./MATHS/1523-CountOddNumberInAnIntervalRange.cpp) | C++ |
+| 2235 | [Add Two Number](./MATHS/2235-AddTwoNumber.cpp) | C++ |
+
+---
+
+## 🔍 Searching
+
+| # | Problem | Solution |
+|---|---|---|
+| 0004 | [Median Of Two Sorted Array](./SEARCHING/0004-MedianOfTwoSortedArray.cpp) | C++ |
+| 0033 | [Search In A Rotated Sorted Array](./SEARCHING/0033-SearchInARotatedSortedArray.cpp) | C++ |
+| 0035 | [Search Insert Position](./SEARCHING/0035-SearchInsertPostition.cpp) | C++ |
+| 0074 | [Search In A 2D Matrix](./SEARCHING/0074-SearchInA2DMatrix.cpp) | C++ |
+| 0081 | [Search In A Rotated Sorted Array 2](./SEARCHING/0081-SearchInARotatedSortedArray2.cpp) | C++ |
+| 0153 | [Find Minimum In Rotated Sorted Array](./SEARCHING/0153-FindMinimumInRotatedSortedArray.cpp) | C++ |
+| 0162 | [Find Peak Element](./SEARCHING/0162-FindPeakElement.cpp) | C++ |
+| 0240 | [Search In A 2D Matrix 2](./SEARCHING/0240-SearchInA2DMatrix2.cpp) | C++ |
+| 0278 | [First Bad Version](./SEARCHING/0278-FirstBadVersion.cpp) | C++ |
+| 0287 | [Find Duplicate Number](./SEARCHING/0287-FindDuplicateNumber.cpp) | C++ |
+| 0367 | [Valid Perfect Square](./SEARCHING/0367-ValidPerfectSquare.cpp) | C++ |
+| 0374 | [Guess Number Higher Or Lower](./SEARCHING/0374-GuessNumberHigherOrLower.cpp) | C++ |
+| 0410 | [Split Array Largest Sum](./SEARCHING/0410-SplitArrayLargestSum.cpp) | C++ |
+| 0441 | [Arranging Coins](./SEARCHING/0441-ArrangingCoins.cpp) | C++ |
+| 0540 | [Single Element In Sorted Array](./SEARCHING/0540-SingleElementInSortedArray.cpp) | C++ |
+| 0704 | [Binary Search](./SEARCHING/0704-BinarySearch.cpp) | C++ |
+| 0744 | [Find Smallest Letter Greater Than Target](./SEARCHING/0744-FindSmallestLetterGreaterThanTarget.cpp) | C++ |
+| 0793 | [Preimage Size Of Factorial Zero Function](./SEARCHING/0793-PreimageSizeOfFactorialZeroFunction.cpp) | C++ |
+| 0852 | [Peak Index Of Mountain Array](./SEARCHING/0852-PeakIndexOfMountainArray.cpp) | C++ |
+| 0875 | [KoKo Eating Banana](./SEARCHING/0875-KoKoEatingBanana.cpp) | C++ |
+| 0878 | [Nth Magical Number](./SEARCHING/0878-NthMagicalNumber.cpp) | C++ |
+| 0981 | [Time Based Key Value Store](./SEARCHING/0981-TimeBasedKeyValueStore.cpp) | C++ |
+| 1011 | [Capacity To Ship Package Within D Days](./SEARCHING/1011-CapacityToShipPackageWithinDDays.cpp) | C++ |
+| 1283 | [Find Smallest Divisor Given A Threshold](./SEARCHING/1283-FindSmallestDivisorGivenAthershold.cpp) | C++ |
+| 1351 | [Count Negative Number In A Sorted Matrix](./SEARCHING/1351-CountNegativeNumberInASortedMatrix.cpp) | C++ |
+| 1482 | [Minimum Number Of Days To Make M Bouquets](./SEARCHING/1482-MinimumNumberOfDaysToMakeMBouquets.cpp) | C++ |
+| 1539 | [Kth Missing Positive Number](./SEARCHING/1539-KthMissingPositiveNumber.cpp) | C++ |
+| 1552 | [Magnetic Force Between Two Balls](./SEARCHING/1552-MagneticForceBetweenTwoBalls.cpp) | C++ |
+| 1802 | [Maximum Value At A Given Index In Bounded Array](./SEARCHING/1802-MaximumValueAtAGivenIndexInBoundedArray.cpp) | C++ |
+| 1901 | [Find Peak Element 2](./SEARCHING/1901-FindPeakElement2.cpp) | C++ |
+
+---
+
+## 📊 Sorting
+
+| # | Problem | Solution |
+|---|---|---|
+| 0015 | [3Sum](./SORTING/0015-3Sum.cpp) | C++ |
+| 0018 | [4Sum](./SORTING/0018-4Sum.cpp) | C++ |
+| 0075 | [Sort Colors](./SORTING/0075-SortColors.cpp) | C++ |
+| 0088 | [Merge Sorted Array](./SORTING/0088-MergeSortedArray.cpp) | C++ |
+| 0164 | [Maximum Gap](./SORTING/0164-MaximumGap.cpp) | C++ |
+| 0169 | [Majority Element](./SORTING/0169-MajorityElement.cpp) | C++ |
+| 0217 | [Contains Duplicate](./SORTING/0217-ContainsDuplicate.cpp) | C++ |
+| 0229 | [Majority Element 2](./SORTING/0229-MajorityElement2.cpp) | C++ |
+| 0349 | [Insertion Of Two Array](./SORTING/0349-InsertionOfTwoArray.cpp) | C++ |
+| 0350 | [Insertion Of Two Array 2](./SORTING/0350-InsertionOfTwoArray2.cpp) | C++ |
+| 0414 | [New Maximum Number](./SORTING/0414-NewMaximumNumber.cpp) | C++ |
+| 0442 | [Find All Duplicate In An Array](./SORTING/0442-FindAllDuplicateInAnArray.cpp) | C++ |
+| 0506 | [Relative Rank](./SORTING/0506-RelativeRank.cpp) | C++ |
+| 0532 | [K-Diff Pair In Array](./SORTING/0532-K-DiffPairInArray.cpp) | C++ |
+| 0561 | [Array Partition](./SORTING/0561-ArrayPartition.cpp) | C++ |
+| 0628 | [Maximum Product Of Three Numbers](./SORTING/0628-MaximumProductOfThreeNumbers.cpp) | C++ |
+| 0645 | [Set Mismatch](./SORTING/0645-SetMismatch.cpp) | C++ |
+| 0905 | [Sort Array By Parity](./SORTING/0905-SortArrayByParity.cpp) | C++ |
+| 0922 | [Sort Array By Parity 2](./SORTING/0922-SortArrayByParity2.cpp) | C++ |
+| 0977 | [Square Of Sorted Array](./SORTING/0977-SquareOfSortedArray.cpp) | C++ |
+| 1122 | [Relative Sort Array](./SORTING/1122-RelativeSortArray.cpp) | C++ |
+| 1329 | [Sort Matrix Diagonally](./SORTING/1329-SortMatricDiagnolly.cpp) | C++ |
+| 1346 | [Check If N And Its Double Exist](./SORTING/1346-CheckIfNAndItsDoubleExist.cpp) | C++ |
+| 1354 | [How Many Numbers Are Smaller Than The Current Number](./SORTING/1354-HowManyNumbersAreSmallerThanTheCurrentNumber.cpp) | C++ |
+| 1752 | [Check Array Is Sorted And Rotated](./SORTING/1752-CheckArrayIsSortedAndRotated.cpp) | C++ |
+| 2089 | [Find Target Indices After Sorting Array](./SORTING/2089-FindTragetIndicesAfterSortingArray.cpp) | C++ |
+| 2160 | [Minimum Sum Of Four Digit Number After Splitting Digit](./SORTING/2160-MinimumSumOfFourDigitNumberAfterSplittingDigit.cpp) | C++ |
 
