@@ -121,10 +121,8 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0190 | [Reverse Bits](./BITMANIPULATION/0190-ReverseBits.cpp) | C++ |
 | 0191 | [Number Of 1 Bits](./BITMANIPULATION/0191-NumberOf1Bits.cpp) | C++ |
 | 0201 | [Bitwise AND Of Number Range](./BITMANIPULATION/0201-BitwiseANDOfNumberRange.cpp) | C++ |
-| 0231 | [Power Of Two](./BITMANIPULATION/0231-PowerOfTwo.cpp) | C++ |
 | 0260 | [Single Number 3](./BITMANIPULATION/0260-SingleNumber3.cpp) | C++ |
 | 0338 | [Counting Bits](./BITMANIPULATION/0338-CountingBits.cpp) | C++ |
-| 0342 | [Power Of Four](./BITMANIPULATION/0342-PowerOfFour.cpp) | C++ |
 | 0371 | [Sum Of Two Integers](./BITMANIPULATION/0371-SumOfTwoIntegers.cpp) | C++ |
 | 0393 | [UTF-8 Validation](./BITMANIPULATION/0393-UTF-8Validation.cpp) | C++ |
 | 0401 | [Binary Watch](./BITMANIPULATION/0401-BinaryWatch.cpp) | C++ |
@@ -220,7 +218,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0878 | [Nth Magical Number](./SEARCHING/0878-NthMagicalNumber.cpp) | C++ |
 | 0981 | [Time Based Key Value Store](./SEARCHING/0981-TimeBasedKeyValueStore.cpp) | C++ |
 | 1011 | [Capacity To Ship Package Within D Days](./SEARCHING/1011-CapacityToShipPackageWithinDDays.cpp) | C++ |
-| 1283 | [Find Smallest Divisor Given A Threshold](./SEARCHING/1283-FindSmallestDivisorGivenAthershold.cpp) | C++ |
+| 1283 | [Find Smallest Divisor Given A Threshold](./SEARCHING/1283-FindSmallestDivisorGivenAThershold.cpp) | C++ |
 | 1351 | [Count Negative Number In A Sorted Matrix](./SEARCHING/1351-CountNegativeNumberInASortedMatrix.cpp) | C++ |
 | 1482 | [Minimum Number Of Days To Make M Bouquets](./SEARCHING/1482-MinimumNumberOfDaysToMakeMBouquets.cpp) | C++ |
 | 1539 | [Kth Missing Positive Number](./SEARCHING/1539-KthMissingPositiveNumber.cpp) | C++ |
