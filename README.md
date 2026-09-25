@@ -260,3 +260,32 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 2089 | [Find Target Indices After Sorting Array](./SORTING/2089-FindTragetIndicesAfterSortingArray.cpp) | C++ |
 | 2160 | [Minimum Sum Of Four Digit Number After Splitting Digit](./SORTING/2160-MinimumSumOfFourDigitNumberAfterSplittingDigit.cpp) | C++ |
 
+---
+
+## 🌳 Binary Search Tree
+
+| # | Problem | Solution |
+|---|---|---|
+| 0095 | [Unique Binary Search Trees II](./BINARYSEARCHTREE/0095-UniqueBinarySearchTree2.cpp) | C++ |
+| 0096 | [Unique Binary Search Trees](./BINARYSEARCHTREE/0096-UniqueBinarySearchTree.cpp) | C++ |
+| 0098 | [Validate Binary Search Tree](./BINARYSEARCHTREE/0098-ValidateBinarySearchTree.cpp) | C++ |
+| 0099 | [Recover Binary Search Tree](./BINARYSEARCHTREE/0099-RecoverBinarySearchTree.cpp) | C++ |
+| 0108 | [Convert Sorted Array Into Binary Search Tree](./BINARYSEARCHTREE/0108-ConvertedSortedArrayIntoBinarySearchTree.cpp) | C++ |
+| 0109 | [Convert Sorted List to Binary Search Tree](./BINARYSEARCHTREE/0109-ConvertedSortedListIntoBinarySearchTree.cpp) | C++ |
+| 0173 | [Binary Search Tree Iterator](./BINARYSEARCHTREE/0173-BinarySearchTreeIterator.cpp) | C++ |
+| 0230 | [Kth Smallest Element in a BST](./BINARYSEARCHTREE/0230-KthSmallestElementInBST.cpp) | C++ |
+| 0235 | [Lowest Common Ancestor of a Binary Search Tree](./BINARYSEARCHTREE/0235-LowestCommonAncestorOfBinarySearchTree.cpp) | C++ |
+| 0450 | [Delete Node in a BST](./BINARYSEARCHTREE/0450-DeleteNodeInBST.cpp) | C++ |
+| 0530 | [Minimum Absolute Difference in BST](./BINARYSEARCHTREE/0530-MinimumAbsoluteDifferenceInBST.cpp) | C++ |
+| 0653 | [Two Sum IV - Input is a BST](./BINARYSEARCHTREE/0653-TwoSum4-InputIsABST.cpp) | C++ |
+| 0669 | [Trim a Binary Search Tree](./BINARYSEARCHTREE/0669-TrimABinarySearchTree.cpp) | C++ |
+| 0700 | [Search in a Binary Search Tree](./BINARYSEARCHTREE/0700-SearchInBinarySearchTree.cpp) | C++ |
+| 0701 | [Insert into a Binary Search Tree](./BINARYSEARCHTREE/0701-InsertIntoABinarySearchTree.cpp) | C++ |
+| 0783 | [Minimum Distance Between BST Nodes](./BINARYSEARCHTREE/0783-MinimumDistanceBetweenBSTNode.cpp) | C++ |
+| 0897 | [Increasing Order Search Tree](./BINARYSEARCHTREE/0897-IncreasingOrderSearchTree.cpp) | C++ |
+| 0938 | [Range Sum of BST](./BINARYSEARCHTREE/0938-RangeSumOfBST.cpp) | C++ |
+| 1008 | [Construct Binary Search Tree from Preorder Traversal](./BINARYSEARCHTREE/1008-ConstructBinarySearchTreeFromPreorderTraversal.cpp) | C++ |
+| 1305 | [All Elements in Two Binary Search Trees](./BINARYSEARCHTREE/1305-AllElementInBinarySearchTrees.cpp) | C++ |
+| 1373 | [Maximum Sum BST in Binary Tree](./BINARYSEARCHTREE/1373-MaximumSumBSTinBinaryTree.cpp) | C++ |
+| 1382 | [Balance a Binary Search Tree](./BINARYSEARCHTREE/1382-BalanceABinarySearchTree.cpp) | C++ |
+| 1932 | [Merge BSTs to Create Single BST](./BINARYSEARCHTREE/1932-MergeBSTToSingleBST.cpp) | C++ |
