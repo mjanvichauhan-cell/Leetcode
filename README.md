@@ -240,22 +240,27 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0169 | [Majority Element](./SORTING/0169-MajorityElement.cpp) | C++ |
 | 0217 | [Contains Duplicate](./SORTING/0217-ContainsDuplicate.cpp) | C++ |
 | 0229 | [Majority Element 2](./SORTING/0229-MajorityElement2.cpp) | C++ |
+| 0315 | [Count Of Smaller Number After Self](./SORTING/0315-CountOfSmallerNumberAfterSelf.cpp) | C++ |
+| 0327 | [Count Of range Sum](./SORTING/0327-CountOfRangeSum.cpp) | C++ |
 | 0349 | [Insertion Of Two Array](./SORTING/0349-InsertionOfTwoArray.cpp) | C++ |
 | 0350 | [Insertion Of Two Array 2](./SORTING/0350-InsertionOfTwoArray2.cpp) | C++ |
 | 0414 | [New Maximum Number](./SORTING/0414-NewMaximumNumber.cpp) | C++ |
 | 0442 | [Find All Duplicate In An Array](./SORTING/0442-FindAllDuplicateInAnArray.cpp) | C++ |
+| 0493 | [Reverse Pairs](./SORTING/0493-ReversePairs.cpp) | C++ |
 | 0506 | [Relative Rank](./SORTING/0506-RelativeRank.cpp) | C++ |
 | 0532 | [K-Diff Pair In Array](./SORTING/0532-K-DiffPairInArray.cpp) | C++ |
 | 0561 | [Array Partition](./SORTING/0561-ArrayPartition.cpp) | C++ |
 | 0628 | [Maximum Product Of Three Numbers](./SORTING/0628-MaximumProductOfThreeNumbers.cpp) | C++ |
 | 0645 | [Set Mismatch](./SORTING/0645-SetMismatch.cpp) | C++ |
 | 0905 | [Sort Array By Parity](./SORTING/0905-SortArrayByParity.cpp) | C++ |
+| 0912 | [Sort An Array](./SORTING/0912-SortAnArray.cpp) | C++ |
 | 0922 | [Sort Array By Parity 2](./SORTING/0922-SortArrayByParity2.cpp) | C++ |
 | 0977 | [Square Of Sorted Array](./SORTING/0977-SquareOfSortedArray.cpp) | C++ |
 | 1122 | [Relative Sort Array](./SORTING/1122-RelativeSortArray.cpp) | C++ |
 | 1329 | [Sort Matrix Diagonally](./SORTING/1329-SortMatricDiagnolly.cpp) | C++ |
 | 1346 | [Check If N And Its Double Exist](./SORTING/1346-CheckIfNAndItsDoubleExist.cpp) | C++ |
 | 1354 | [How Many Numbers Are Smaller Than The Current Number](./SORTING/1354-HowManyNumbersAreSmallerThanTheCurrentNumber.cpp) | C++ |
+| 1508 | [Range Sum Of Sorted SubArray Sum](./SORTING/1508-RangeSumOfSortedSubarraySums.cpp) | C++ |
 | 1752 | [Check Array Is Sorted And Rotated](./SORTING/1752-CheckArrayIsSortedAndRotated.cpp) | C++ |
 | 2089 | [Find Target Indices After Sorting Array](./SORTING/2089-FindTragetIndicesAfterSortingArray.cpp) | C++ |
 | 2160 | [Minimum Sum Of Four Digit Number After Splitting Digit](./SORTING/2160-MinimumSumOfFourDigitNumberAfterSplittingDigit.cpp) | C++ |
