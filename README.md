@@ -170,6 +170,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0009 | [Palindrome Number](./MATHS/0009-PalindromeNumber.cpp) | C++ |
 | 0069 | [SQRT(X)](./MATHS/0069-SQRT(X).cpp) | C++ |
 | 0172 | [Factorial Trailing Zeros](./MATHS/0172-FactorialTrailingZeros.cpp) | C++ |
+| 0202 | [Happy Number](./MATHS/0202-HappyNumber.cpp) | C++ |
 | 0204 | [Count Primes](./MATHS/0204-CountPrimes.cpp) | C++ |
 | 0231 | [Power Of 2](./MATHS/0231-PowerOf2.cpp) | C++ |
 | 0233 | [Number Of Digit One](./MATHS/0233-NumberOfDigitOne.cpp) | C++ |
@@ -183,6 +184,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0412 | [Fizz Buzz](./MATHS/0412-FizzBuzz.cpp) | C++ |
 | 0458 | [Poor Pigs](./MATHS/0458-PoorPigs.cpp) | C++ |
 | 0507 | [Perfect Number](./MATHS/0507-PerfectNumber.cpp) | C++ |
+| 0728 | [Self Dividing Number](./MATHS/0728-SelfDividingNumber.cpp) | C++ |
 | 0754 | [Reach A Number](./MATHS/0754-ReachANumber.cpp) | C++ |
 | 0858 | [Mirror Reflection](./MATHS/0858-MirrorReflection.cpp) | C++ |
 | 1281 | [Subtract The Product And Sum Of An Integer](./MATHS/1281-SubtractTheProductAndSumOfAnInteger.cpp) | C++ |
@@ -216,6 +218,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0852 | [Peak Index Of Mountain Array](./SEARCHING/0852-PeakIndexOfMountainArray.cpp) | C++ |
 | 0875 | [KoKo Eating Banana](./SEARCHING/0875-KoKoEatingBanana.cpp) | C++ |
 | 0878 | [Nth Magical Number](./SEARCHING/0878-NthMagicalNumber.cpp) | C++ |
+| 0941 | [Valid Mountain Array](./SEARCHING/0941-ValidMountainArray.cpp) | C++ |
 | 0981 | [Time Based Key Value Store](./SEARCHING/0981-TimeBasedKeyValueStore.cpp) | C++ |
 | 1011 | [Capacity To Ship Package Within D Days](./SEARCHING/1011-CapacityToShipPackageWithinDDays.cpp) | C++ |
 | 1283 | [Find Smallest Divisor Given A Threshold](./SEARCHING/1283-FindSmallestDivisorGivenAThershold.cpp) | C++ |
