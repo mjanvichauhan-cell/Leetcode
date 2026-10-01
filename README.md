@@ -310,6 +310,8 @@ My solutions to LeetCode problems in C++, organized by problem number.
 
 ---
 
+## Priority Queue 
+
 | # | Problem | Solution |
 |---|---|---|
 | 0215 | [Kth Largest Element in an Array](./PRIORITYQUEUE/0215-KthLargestElementInAnArray.cpp) | C++ |
@@ -328,6 +330,10 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1834 | [Single-Threaded CPU](./PRIORITYQUEUE/1834-SingleThreadedCPU.cpp) | C++ |
 | 2530 | [Maximal Score After Applying K Operations](./PRIORITYQUEUE/2530-MaximalScoreAfterApplyingKOperations.cpp) | C++ |
 | 2558 | [Take Gifts From the Richest Pile](./PRIORITYQUEUE/2558-TakeGiftFromRichestPile.cpp) | C++ |
+
+---
+
+## 🌳 Binary Search Tree
 
 | # | Problem | Solution |
 |---|---|---|
