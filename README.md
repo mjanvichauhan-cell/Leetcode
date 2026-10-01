@@ -82,6 +82,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 
 | # | Problem | Solution |
 |---|---|---|
+| 0036 | [Valid Suduko](./MATRIX/0036-ValidSuduko.cpp) | C++ |
 | 0048 | [Rotate Image](./MATRIX/0048-RotateImage.cpp) | C++ |
 | 0054 | [Spiral Matrix](./MATRIX/0054-SpiralMatrix.cpp) | C++ |
 | 0059 | [Spiral Matrix 2](./MATRIX/0059-SpiralMatrix2.cpp) | C++ |
@@ -102,6 +103,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1275 | [Find Winner Of Tic Tac Toe Game](./MATRIX/1275-FindWinnerOfTicTacToeGame.cpp) | C++ |
 | 1314 | [Matrix Block Sum](./MATRIX/1314-MatrixBlockSum.cpp) | C++ |
 | 1380 | [Lucky Number Of Matrix](./MATRIX/1380-LuckyNumberOfMatrix.cpp) | C++ |
+| 1424 | [Diagonal Traverse 2](./MATRIX/1424-DiagonalTraverse2.cpp) | C++ |
 | 1572 | [Matrix Diagonal Sum](./MATRIX/1572-MatrixDiagonalSum.cpp) | C++ |
 | 1582 | [Special Positions In Binary Matrix](./MATRIX/1582-SpecialPositionInBinaryMatrix.cpp) | C++ |
 | 1672 | [Richest Customer Wealth](./MATRIX/1672-RichestCustomerWealth.cpp) | C++ |
@@ -168,7 +170,9 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0007 | [Reverse Integer](./MATHS/0007-ReverseInteger.cpp) | C++ |
 | 0009 | [Palindrome Number](./MATHS/0009-PalindromeNumber.cpp) | C++ |
+| 0066 | [Plus One](./MATHS/0066-PlusOne.cpp) | C++ |
 | 0069 | [SQRT(X)](./MATHS/0069-SQRT(X).cpp) | C++ |
+| 0166 | [Fractional To Recurring Decimal](./MATHS/0166-FractionalToRecurringDecimal.cpp) | C++ |
 | 0172 | [Factorial Trailing Zeros](./MATHS/0172-FactorialTrailingZeros.cpp) | C++ |
 | 0202 | [Happy Number](./MATHS/0202-HappyNumber.cpp) | C++ |
 | 0204 | [Count Primes](./MATHS/0204-CountPrimes.cpp) | C++ |
@@ -181,6 +185,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0326 | [Power Of Three](./MATHS/0326-PowerOfThree.cpp) | C++ |
 | 0335 | [Self Crossing](./MATHS/0335-SelfCrossing.cpp) | C++ |
 | 0342 | [Power Of Four](./MATHS/0342-PowerOfFour.cpp) | C++ |
+| 0372 | [Super Pow](./MATHS/0372-SuperPow.cpp) | C++ |
 | 0412 | [Fizz Buzz](./MATHS/0412-FizzBuzz.cpp) | C++ |
 | 0458 | [Poor Pigs](./MATHS/0458-PoorPigs.cpp) | C++ |
 | 0507 | [Perfect Number](./MATHS/0507-PerfectNumber.cpp) | C++ |
@@ -189,7 +194,9 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0858 | [Mirror Reflection](./MATHS/0858-MirrorReflection.cpp) | C++ |
 | 1281 | [Subtract The Product And Sum Of An Integer](./MATHS/1281-SubtractTheProductAndSumOfAnInteger.cpp) | C++ |
 | 1523 | [Count Odd Number In An Interval Range](./MATHS/1523-CountOddNumberInAnIntervalRange.cpp) | C++ |
+| 1588 | [Sum Of All Odd Length Subarray](./MATHS/1588-SumOfAllOddLengthSubarray.cpp) | C++ |
 | 2235 | [Add Two Number](./MATHS/2235-AddTwoNumber.cpp) | C++ |
+| 2965 | [Find Missing and Repeated Value](./MATHS/2965-FindMissingAndRepeatedValue.cpp) | C++ |
 
 ---
 
@@ -223,6 +230,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1011 | [Capacity To Ship Package Within D Days](./SEARCHING/1011-CapacityToShipPackageWithinDDays.cpp) | C++ |
 | 1283 | [Find Smallest Divisor Given A Threshold](./SEARCHING/1283-FindSmallestDivisorGivenAThershold.cpp) | C++ |
 | 1351 | [Count Negative Number In A Sorted Matrix](./SEARCHING/1351-CountNegativeNumberInASortedMatrix.cpp) | C++ |
+| 1385 | [Find The Distance Between Two Array](./SEARCHING/1385-FindTheDistanceValueBetweenTwoArray.cpp) | C++ |
 | 1482 | [Minimum Number Of Days To Make M Bouquets](./SEARCHING/1482-MinimumNumberOfDaysToMakeMBouquets.cpp) | C++ |
 | 1539 | [Kth Missing Positive Number](./SEARCHING/1539-KthMissingPositiveNumber.cpp) | C++ |
 | 1552 | [Magnetic Force Between Two Balls](./SEARCHING/1552-MagneticForceBetweenTwoBalls.cpp) | C++ |
@@ -237,6 +245,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0015 | [3Sum](./SORTING/0015-3Sum.cpp) | C++ |
 | 0018 | [4Sum](./SORTING/0018-4Sum.cpp) | C++ |
+| 0056 | [Merge Intervals](./SORTING/0056-MergeIntervals.cpp) | C++ |
 | 0075 | [Sort Colors](./SORTING/0075-SortColors.cpp) | C++ |
 | 0088 | [Merge Sorted Array](./SORTING/0088-MergeSortedArray.cpp) | C++ |
 | 0164 | [Maximum Gap](./SORTING/0164-MaximumGap.cpp) | C++ |
@@ -255,6 +264,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0561 | [Array Partition](./SORTING/0561-ArrayPartition.cpp) | C++ |
 | 0628 | [Maximum Product Of Three Numbers](./SORTING/0628-MaximumProductOfThreeNumbers.cpp) | C++ |
 | 0645 | [Set Mismatch](./SORTING/0645-SetMismatch.cpp) | C++ |
+| 0747 | [Largest Number Atleast Twice of Other](./SORTING/0747-LargestNumberAtleastTwiceOfOthers.cpp) | C++ |
 | 0905 | [Sort Array By Parity](./SORTING/0905-SortArrayByParity.cpp) | C++ |
 | 0912 | [Sort An Array](./SORTING/0912-SortAnArray.cpp) | C++ |
 | 0922 | [Sort Array By Parity 2](./SORTING/0922-SortArrayByParity2.cpp) | C++ |
@@ -297,3 +307,62 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1373 | [Maximum Sum BST in Binary Tree](./BINARYSEARCHTREE/1373-MaximumSumBSTinBinaryTree.cpp) | C++ |
 | 1382 | [Balance a Binary Search Tree](./BINARYSEARCHTREE/1382-BalanceABinarySearchTree.cpp) | C++ |
 | 1932 | [Merge BSTs to Create Single BST](./BINARYSEARCHTREE/1932-MergeBSTToSingleBST.cpp) | C++ |
+
+---
+
+| # | Problem | Solution |
+|---|---|---|
+| 0215 | [Kth Largest Element in an Array](./PRIORITYQUEUE/0215-KthLargestElementInAnArray.cpp) | C++ |
+| 0295 | [Find Median from Data Stream](./PRIORITYQUEUE/0295-FindMedianFromDataStream.cpp) | C++ |
+| 0347 | [Top K Frequent Elements](./PRIORITYQUEUE/0347-TopKFrequentElement.cpp) | C++ |
+| 0355 | [Design Twitter](./PRIORITYQUEUE/0355-DesignTwitter.cpp) | C++ |
+| 0373 | [Find K Pairs with Smallest Sums](./PRIORITYQUEUE/0373-FindKPairsWithSmallestSum.cpp) | C++ |
+| 0378 | [Kth Smallest Element in a Sorted Matrix](./PRIORITYQUEUE/0378-KthSmallestElementinSortedMatrix.cpp) | C++ |
+| 0502 | [IPO](./PRIORITYQUEUE/0502-IPO.cpp) | C++ |
+| 0632 | [Smallest Range Covering Elements from K Lists](./PRIORITYQUEUE/0632-SmallestRangeCoveringElementFromKLists.cpp) | C++ |
+| 0703 | [Kth Largest Element in a Stream](./PRIORITYQUEUE/0703-KthLargestElementInAStream.cpp) | C++ |
+| 0871 | [Minimum Number of Refueling Stops](./PRIORITYQUEUE/0871-MinimumNumberOfRefuelingStop.cpp) | C++ |
+| 1046 | [Last Stone Weight](./PRIORITYQUEUE/1046-LastStoneWeight.cpp) | C++ |
+| 1354 | [Construct Target Array With Multiple Sums](./PRIORITYQUEUE/1354-ConstructTargetArrayWithMultipleSum.cpp) | C++ |
+| 1642 | [Furthest Building You Can Reach](./PRIORITYQUEUE/1642-FurthestBuildingYouCanReach.cpp) | C++ |
+| 1834 | [Single-Threaded CPU](./PRIORITYQUEUE/1834-SingleThreadedCPU.cpp) | C++ |
+| 2530 | [Maximal Score After Applying K Operations](./PRIORITYQUEUE/2530-MaximalScoreAfterApplyingKOperations.cpp) | C++ |
+| 2558 | [Take Gifts From the Richest Pile](./PRIORITYQUEUE/2558-TakeGiftFromRichestPile.cpp) | C++ |
+
+| # | Problem | Solution |
+|---|---|---|
+| 0094 | [Binary Tree Inorder Traversal](./BINARYTREE/0094-BinaryTreeInorderTraversal.cpp) | C++ |
+| 0100 | [Same Tree](./BINARYTREE/0100-SameTree.cpp) | C++ |
+| 0101 | [Symmetric Tree](./BINARYTREE/0101-SymmetricTree.cpp) | C++ |
+| 0102 | [Binary Tree Level Order Traversal](./BINARYTREE/0102-BinaryTreeLevelOrderTraversal.cpp) | C++ |
+| 0103 | [Binary Tree Zigzag Level Order Traversal](./BINARYTREE/0103-BinaryTreeZigZagLevelOrderTraversal.cpp) | C++ |
+| 0104 | [Maximum Depth of Binary Tree](./BINARYTREE/0104-MaximumDepthOfBinaryTree.cpp) | C++ |
+| 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](./BINARYTREE/0105-ConstructBinaryTreeFromPreorderAndInorderTraversal.cpp) | C++ |
+| 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](./BINARYTREE/0106-ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp) | C++ |
+| 0110 | [Balanced Binary Tree](./BINARYTREE/0110-BalancedBinaryTree.cpp) | C++ |
+| 0112 | [Path Sum](./BINARYTREE/0112-PathSum.cpp) | C++ |
+| 0114 | [Flatten Binary Tree to Linked List](./BINARYTREE/0114-FlattenBinaryTreeToLinkedList.cpp) | C++ |
+| 0116 | [Populating Next Right Pointers in Each Node](./BINARYTREE/0116-PopulatingNextRightPointerToEachNode.cpp) | C++ |
+| 0124 | [Binary Tree Maximum Path Sum](./BINARYTREE/0124-BinaryTreeMaximumPathSum.cpp) | C++ |
+| 0144 | [Binary Tree Preorder Traversal](./BINARYTREE/0144-BinaryTreePreorderTraversal.cpp) | C++ |
+| 0145 | [Binary Tree Postorder Traversal](./BINARYTREE/0145-BinaryTreePostorderTraversal.cpp) | C++ |
+| 0199 | [Binary Tree Right Side View](./BINARYTREE/0199-BinaryTreeRightSideView.cpp) | C++ |
+| 0222 | [Count Complete Tree Nodes](./BINARYTREE/0222-CountCompleteTreeNode.cpp) | C++ |
+| 0226 | [Invert Binary Tree](./BINARYTREE/0226-InvertBinaryTree.cpp) | C++ |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](./BINARYTREE/0236-LowestCommonAncestorOfBinaryTree.cpp) | C++ |
+| 0257 | [Binary Tree Paths](./BINARYTREE/0257-BinaryTreePaths.cpp) | C++ |
+| 0297 | [Serialize and Deserialize Binary Tree](./BINARYTREE/0297-SerializeAndDeserializeofBinaryTree.cpp) | C++ |
+| 0337 | [House Robber III](./BINARYTREE/0337-HouseRobber3.cpp) | C++ |
+| 0404 | [Sum of Left Leaves](./BINARYTREE/0404-SumOfLeftLeaf.cpp) | C++ |
+| 0437 | [Path Sum III](./BINARYTREE/0437-PathSum3.cpp) | C++ |
+| 0515 | [Find Largest Value in Each Tree Row](./BINARYTREE/0515-FindLargestValueInEachTreeRow.cpp) | C++ |
+| 0543 | [Diameter of Binary Tree](./BINARYTREE/0543-DiameterOfBinaryTree.cpp) | C++ |
+| 0572 | [Subtree of Another Tree](./BINARYTREE/0572-SubtreeOfAnotherTree.cpp) | C++ |
+| 0662 | [Maximum Width of Binary Tree](./BINARYTREE/0662-MaximumWidthOfBinaryTree.cpp) | C++ |
+| 0863 | [All Nodes Distance K in Binary Tree](./BINARYTREE/0863-AllNodeDistanceKInBinaryTree.cpp) | C++ |
+| 0968 | [Binary Tree Cameras](./BINARYTREE/0968-BinaryTreeCamera.cpp) | C++ |
+| 0987 | [Vertical Order Traversal of a Binary Tree](./BINARYTREE/0987-VerticalOrderTraversalOfBinaryTree.cpp) | C++ |
+| 0993 | [Cousins in Binary Tree](./BINARYTREE/0993-CousinsinBinaryTree.cpp) | C++ |
+| 1372 | [Longest ZigZag Path in a Binary Tree](./BINARYTREE/1372-LongestZigZagPathInBinaryTree.cpp) | C++ |
+| 1483 | [Kth Ancestor of a Tree Node](./BINARYTREE/1483-KthAncestorOfATreeNode.cpp) | C++ |
+| 1609 | [Even Odd Tree](./BINARYTREE/1609-EvenOddTree.cpp) | C++ |
