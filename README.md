@@ -310,7 +310,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 
 ---
 
-## Priority Queue 
+## 📚 Priority Queue 
 
 | # | Problem | Solution |
 |---|---|---|
@@ -333,7 +333,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 
 ---
 
-## 🌳 Binary Search Tree
+## 🌳 Binary Tree
 
 | # | Problem | Solution |
 |---|---|---|
