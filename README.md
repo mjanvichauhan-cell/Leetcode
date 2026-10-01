@@ -319,7 +319,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0347 | [Top K Frequent Elements](./PRIORITYQUEUE/0347-TopKFrequentElement.cpp) | C++ |
 | 0355 | [Design Twitter](./PRIORITYQUEUE/0355-DesignTwitter.cpp) | C++ |
 | 0373 | [Find K Pairs with Smallest Sums](./PRIORITYQUEUE/0373-FindKPairsWithSmallestSum.cpp) | C++ |
-| 0378 | [Kth Smallest Element in a Sorted Matrix](./PRIORITYQUEUE/0378-KthSmallestElementinSortedMatrix.cpp) | C++ |
+| 0378 | [Kth Smallest Element in a Sorted Matrix](./PRIORITYQUEUE/0378-KthSmallestElementInSortedMatrix.cpp) | C++ |
 | 0502 | [IPO](./PRIORITYQUEUE/0502-IPO.cpp) | C++ |
 | 0632 | [Smallest Range Covering Elements from K Lists](./PRIORITYQUEUE/0632-SmallestRangeCoveringElementFromKLists.cpp) | C++ |
 | 0703 | [Kth Largest Element in a Stream](./PRIORITYQUEUE/0703-KthLargestElementInAStream.cpp) | C++ |
@@ -368,7 +368,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0863 | [All Nodes Distance K in Binary Tree](./BINARYTREE/0863-AllNodeDistanceKInBinaryTree.cpp) | C++ |
 | 0968 | [Binary Tree Cameras](./BINARYTREE/0968-BinaryTreeCamera.cpp) | C++ |
 | 0987 | [Vertical Order Traversal of a Binary Tree](./BINARYTREE/0987-VerticalOrderTraversalOfBinaryTree.cpp) | C++ |
-| 0993 | [Cousins in Binary Tree](./BINARYTREE/0993-CousinsinBinaryTree.cpp) | C++ |
+| 0993 | [Cousins in Binary Tree](./BINARYTREE/0993-CousinsInBinaryTree.cpp) | C++ |
 | 1372 | [Longest ZigZag Path in a Binary Tree](./BINARYTREE/1372-LongestZigZagPathInBinaryTree.cpp) | C++ |
 | 1483 | [Kth Ancestor of a Tree Node](./BINARYTREE/1483-KthAncestorOfATreeNode.cpp) | C++ |
 | 1609 | [Even Odd Tree](./BINARYTREE/1609-EvenOddTree.cpp) | C++ |
