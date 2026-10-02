@@ -191,6 +191,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0507 | [Perfect Number](./MATHS/0507-PerfectNumber.cpp) | C++ |
 | 0728 | [Self Dividing Number](./MATHS/0728-SelfDividingNumber.cpp) | C++ |
 | 0754 | [Reach A Number](./MATHS/0754-ReachANumber.cpp) | C++ |
+| 0829 | [Consecutive Number Sum](./MATHS/0829-ConsecutiveNumberSum.cpp) | C++ |
 | 0858 | [Mirror Reflection](./MATHS/0858-MirrorReflection.cpp) | C++ |
 | 1281 | [Subtract The Product And Sum Of An Integer](./MATHS/1281-SubtractTheProductAndSumOfAnInteger.cpp) | C++ |
 | 1523 | [Count Odd Number In An Interval Range](./MATHS/1523-CountOddNumberInAnIntervalRange.cpp) | C++ |
