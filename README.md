@@ -117,6 +117,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | # | Problem | Solution |
 |---|---|---|
 | 0029 | [Divide Two Integer](./BITMANIPULATION/0029-DivideTwoInteger.cpp) | C++| 
+| 0067 | [Add Binary](./BITMANIPULATION/0067-AddBinary.cpp) | C++ |
 | 0089 | [Gray Code](./BITMANIPULATION/0089-GrayCode.cpp) | C++ |
 | 0136 | [Single Number](./BITMANIPULATION/0136-SingleNumber.cpp) | C++ |
 | 0137 | [Single Number 2](./BITMANIPULATION/0137-SingleNumber2.cpp) | C++ |
@@ -126,6 +127,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0260 | [Single Number 3](./BITMANIPULATION/0260-SingleNumber3.cpp) | C++ |
 | 0338 | [Counting Bits](./BITMANIPULATION/0338-CountingBits.cpp) | C++ |
 | 0371 | [Sum Of Two Integers](./BITMANIPULATION/0371-SumOfTwoIntegers.cpp) | C++ |
+| 0389 | [Find Difference](./BITMANIPULATION/0389-FindDifference.cpp) | C++ |
 | 0393 | [UTF-8 Validation](./BITMANIPULATION/0393-UTF-8Validation.cpp) | C++ |
 | 0401 | [Binary Watch](./BITMANIPULATION/0401-BinaryWatch.cpp) | C++ |
 | 0476 | [Number Complement](./BITMANIPULATION/0476-NumberComplement.cpp) | C++ |
@@ -172,6 +174,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0009 | [Palindrome Number](./MATHS/0009-PalindromeNumber.cpp) | C++ |
 | 0066 | [Plus One](./MATHS/0066-PlusOne.cpp) | C++ |
 | 0069 | [SQRT(X)](./MATHS/0069-SQRT(X).cpp) | C++ |
+| 0149 | [Max Point On a line](./MATHS/0149-MaxPointOnALine.cpp) | C++ |
 | 0166 | [Fractional To Recurring Decimal](./MATHS/0166-FractionalToRecurringDecimal.cpp) | C++ |
 | 0172 | [Factorial Trailing Zeros](./MATHS/0172-FactorialTrailingZeros.cpp) | C++ |
 | 0202 | [Happy Number](./MATHS/0202-HappyNumber.cpp) | C++ |
@@ -266,6 +269,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0628 | [Maximum Product Of Three Numbers](./SORTING/0628-MaximumProductOfThreeNumbers.cpp) | C++ |
 | 0645 | [Set Mismatch](./SORTING/0645-SetMismatch.cpp) | C++ |
 | 0747 | [Largest Number Atleast Twice of Other](./SORTING/0747-LargestNumberAtleastTwiceOfOthers.cpp) | C++ |
+| 0761 | [Special Binary String](./SORTING/0761-SpecialBinaryString.cpp) | C++ |
 | 0905 | [Sort Array By Parity](./SORTING/0905-SortArrayByParity.cpp) | C++ |
 | 0912 | [Sort An Array](./SORTING/0912-SortAnArray.cpp) | C++ |
 | 0922 | [Sort Array By Parity 2](./SORTING/0922-SortArrayByParity2.cpp) | C++ |
