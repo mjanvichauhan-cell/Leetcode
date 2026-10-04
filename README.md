@@ -196,6 +196,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0754 | [Reach A Number](./MATHS/0754-ReachANumber.cpp) | C++ |
 | 0829 | [Consecutive Number Sum](./MATHS/0829-ConsecutiveNumberSum.cpp) | C++ |
 | 0858 | [Mirror Reflection](./MATHS/0858-MirrorReflection.cpp) | C++ |
+| 1017 | [Convert To Base 2](./MATHS/1017-ConverToBase2.cpp) | C++ |
 | 1281 | [Subtract The Product And Sum Of An Integer](./MATHS/1281-SubtractTheProductAndSumOfAnInteger.cpp) | C++ |
 | 1523 | [Count Odd Number In An Interval Range](./MATHS/1523-CountOddNumberInAnIntervalRange.cpp) | C++ |
 | 1588 | [Sum Of All Odd Length Subarray](./MATHS/1588-SumOfAllOddLengthSubarray.cpp) | C++ |
