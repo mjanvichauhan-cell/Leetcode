@@ -8,6 +8,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0232 | [Implement Queue using Stacks](./QUEUE/0232-ImplementQueueUsingStack.cpp) | C++ |
 | 0239 | [Sliding Window Maximum](./QUEUE/0239-SlidingWindowMaximum.cpp) | C++ |
+| 0387 | [First Unique Character In String](./QUEUE/0387-FirstUniqueCharacterInString.cpp) | C++ |
 | 0622 | [Design Circular Queue](./QUEUE/0622-DesignCircluarQueue.cpp) | C++ |
 | 0641 | [Design Circular Deque](./QUEUE/0641-DesignCircluarDequeue.cpp) | C++ |
 | 0649 | [Dota2 Senate](./QUEUE/0649-Dota2Senate.cpp) | C++ |
@@ -155,6 +156,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0022 | [Generate Parentheses](./RECURSION/0022-GenerateParantheses.cpp) | C++ |
 | 0034 | [Find First And Last Position Of Element In Sorted Array](./RECURSION/0034-FindFirstAndLastPositionOfElementInSortedArray.cpp) | C++ |
+| 0394 | [Decode String](./RECURSION/0394-DecodeString.cpp) | C++ |
 | 0050 | [Pow(X,N)](./RECURSION/0050-Pow(X,N).cpp) | C++ |
 | 0509 | [Fibonacci Number](./RECURSION/0509-FibonacciNumber.cpp) | C++ |
 | 0779 | [K-th Symbol In Grammar](./RECURSION/0779-KthSymbolInGrammar.cpp) | C++ |
