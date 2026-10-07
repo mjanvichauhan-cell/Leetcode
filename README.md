@@ -15,6 +15,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0933 | [Number of Recent Calls](./QUEUE/0933-NumberOfRecentCalls.cpp) | C++ |
 | 0950 | [Reveal Cards In Increasing Order](./QUEUE/0950-RevealCardIncreasingOrder.cpp) | C++ |
 | 1438 | [Longest Continuous Subarray With Absolute Diff Equal to or Less Than Limit](./QUEUE/1438-LongestContinousSubarrayWithAbsoluteDiffEqualToOrLessThanLimit.cpp) | C++ |
+| 1499 | [Max Value Of Equation](./QUEUE/1499-MaxValueOfEquation.cpp) | C++ |
 | 1700 | [Number of Student Unable To eat Lunch](./QUEUE/1700-NumberOfStudentUnableToEatLunch.cpp) | C++ |
 | 2073 | [Time Needed To Buy Tickets](./QUEUE/2073-TimeNeededToBuyTicket.cpp) | C++ |
 
@@ -73,6 +74,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0090 | [Subset 2](./BACKTRACKING/0090-Subset2.cpp) | C++ |
 | 0131 | [Palindrome Partition](./BACKTRACKING/0131-PalindromePartition.cpp) | C++ |
 | 0216 | [Combination Sum 3](./BACKTRACKING/0216-CombinationSum3.cpp) | C++ |
+| 0282 | [Expression Add Operator](./BACKTRACKING/0282-ExpressionAddOperator.cpp) | C++ |
 | 0698 | [Partition To K Equal Sum Subset](./BACKTRACKING/0698-PartitionToKEqualSumSubset.cpp) | C++ |
 | 0784 | [Letter Case Permutation](./BACKTRACKING/0784-LetterCasePermutation.cpp) | C++ |
 | 0980 | [Unique Path 3](./BACKTRACKING/0980-UniquePath3.cpp) | C++ |
