@@ -383,3 +383,135 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1372 | [Longest ZigZag Path in a Binary Tree](./BINARYTREE/1372-LongestZigZagPathInBinaryTree.cpp) | C++ |
 | 1483 | [Kth Ancestor of a Tree Node](./BINARYTREE/1483-KthAncestorOfATreeNode.cpp) | C++ |
 | 1609 | [Even Odd Tree](./BINARYTREE/1609-EvenOddTree.cpp) | C++ |
+
+---
+
+## 📊 Array
+
+| # | Problem | Solution |
+|---|---|---|
+| 0001 | [Two Sum](./ARRAY/0001-TwoSum.cpp) | C++ |
+| 0026 | [Remove Duplicates from Sorted Array](./ARRAY/0026-RemoveDuplicateFromSortedArray.cpp) | C++ |
+| 0027 | [Remove Element](./ARRAY/0027-RemoveElement.cpp) | C++ |
+| 0031 | [Next Permutation](./ARRAY/0031-NextPermutations.cpp) | C++ |
+| 0041 | [First Missing Positive](./ARRAY/0041-FirstMissingPositive.cpp) | C++ |
+| 0057 | [Insert Interval](./ARRAY/0057-InsertInterval.cpp) | C++ |
+| 0118 | [Pascal's Triangle](./ARRAY/0118-PascalTriangle.cpp) | C++ |
+| 0119 | [Pascal's Triangle II](./ARRAY/0119-PascalTriangle2.cpp) | C++ |
+| 0128 | [Longest Consecutive Sequence](./ARRAY/0128-LongestConsecutiveSequence.cpp) | C++ |
+| 0167 | [Two Sum II - Input Array Is Sorted](./ARRAY/0167-TwoSum2-InputArraySorted.cpp) | C++ |
+| 0189 | [Rotate Array](./ARRAY/0189-RotateArray.cpp) | C++ |
+| 0219 | [Contains Duplicate II](./ARRAY/0219-ConatinsDuplicate2.cpp) | C++ |
+| 0228 | [Summary Ranges](./ARRAY/0228-SummaryRanges.cpp) | C++ |
+| 0238 | [Product of Array Except Self](./ARRAY/0238-ProductOfArrayExceptSelf.cpp) | C++ |
+| 0268 | [Missing Number](./ARRAY/0268-MissingNumber.cpp) | C++ |
+| 0283 | [Move Zeroes](./ARRAY/0283-MoveZeroes.cpp) | C++ |
+| 0303 | [Range Sum Query - Immutable](./ARRAY/0303-RangeSumQuery-Immutable.cpp) | C++ |
+| 0380 | [Insert Delete GetRandom O(1)](./ARRAY/0380-InsertDeleteGetRandom(0)1.cpp) | C++ |
+| 0391 | [Perfect Rectangle](./ARRAY/0391-PerfectRectangle.cpp) | C++ |
+| 0448 | [Find All Numbers Disappeared in an Array](./ARRAY/0448-FindAllNumberDisappearedInArray.cpp) | C++ |
+| 0485 | [Max Consecutive Ones](./ARRAY/0485-MaxConsecutiveOnes.cpp) | C++ |
+| 0495 | [Teemo Attacking](./ARRAY/0495-TeemoAttacking.cpp) | C++ |
+| 0525 | [Contiguous Array](./ARRAY/0525-ContagiousArray.cpp) | C++ |
+| 0560 | [Subarray Sum Equals K](./ARRAY/0560-SubarraySumEqualToK.cpp) | C++ |
+| 0705 | [Design HashSet](./ARRAY/0705-DesignHashset.cpp) | C++ |
+| 0706 | [Design HashMap](./ARRAY/0706-Designhashmap.cpp) | C++ |
+| 0724 | [Find Pivot Index](./ARRAY/0724-FindPivotIndex.cpp) | C++ |
+| 0974 | [Subarray Sums Divisible by K](./ARRAY/0974-SubarraySumDivisibleByK.cpp) | C++ |
+| 1250 | [Check If It Is a Good Array](./ARRAY/1250-CheckIfAGoodArray.cpp) | C++ |
+| 1823 | [Find the Winner of the Circular Game](./ARRAY/1823-FindWinnerOfCircularGame.cpp) | C++ |
+| 1909 | [Remove One Element to Make the Array Strictly Increasing](./ARRAY/1909-RemoveOneElementToMakeTheArrayStrictlyIncreasing.cpp) | C++ |
+| 1920 | [Build Array from Permutation](./ARRAY/1920-BuildARrayFromPermutation.cpp) | C++ |
+| 1929 | [Concatenation of Array](./ARRAY/1929-ConcatenationOfArray.cpp) | C++ |
+| 1991 | [Find the Middle Index in Array](./ARRAY/1991-FindMiddleIndexInArray.cpp) | C++ |
+| 2149 | [Rearrange Array Elements by Sign](./ARRAY/2149-RearrangeArrayElementBySign.cpp) | C++ |
+
+---
+
+## 🔤 String
+
+| # | Problem | Solution |
+|---|---|---|
+| 0005 | [Longest Palindromic Substring](./STRING/0005-LongestPalindromicSubstring.cpp) | C++ |
+| 0006 | [Zigzag Conversion](./STRING/0006-ZigZagConversion.cpp) | C++ |
+| 0008 | [String to Integer (atoi)](./STRING/0008-StringToInteger(atoi).cpp) | C++ |
+| 0012 | [Integer to Roman](./STRING/0012-IntegerToRoman.cpp) | C++ |
+| 0013 | [Roman to Integer](./STRING/0013-RomanToInteger.cpp) | C++ |
+| 0014 | [Longest Common Prefix](./STRING/0014-LongestCommonPrefix.cpp) | C++ |
+| 0028 | [Find the Index of the First Occurrence in a String](./STRING/0028-FindTheIndexOfFirstOccurenceInString.cpp) | C++ |
+| 0032 | [Longest Valid Parentheses](./STRING/0032-LongestValidParentheses.cpp) | C++ |
+| 0038 | [Count and Say](./STRING/0038-CountAndSay.cpp) | C++ |
+| 0043 | [Multiply Strings](./STRING/0043-MultiplyStrings.cpp) | C++ |
+| 0049 | [Group Anagrams](./STRING/0049-GroupAnagrams.cpp) | C++ |
+| 0058 | [Length of Last Word](./STRING/0058-LengthOfLastString.cpp) | C++ |
+| 0125 | [Valid Palindrome](./STRING/0125-ValidPalindrome.cpp) | C++ |
+| 0151 | [Reverse Words in a String](./STRING/0151-ReverseWordsInString.cpp) | C++ |
+| 0168 | [Excel Sheet Column Title](./STRING/0168-ExcelSheetColumnTitle.cpp) | C++ |
+| 0171 | [Excel Sheet Column Number](./STRING/0171-ExcelSheetColumnNumber.cpp) | C++ |
+| 0179 | [Largest Number](./STRING/0179-LargestNumber.cpp) | C++ |
+| 0205 | [Isomorphic Strings](./STRING/0205-IsomorphicString.cpp) | C++ |
+| 0214 | [Shortest Palindrome](./STRING/0214-ShortestPalindrome.cpp) | C++ |
+| 0242 | [Valid Anagram](./STRING/0242-ValidAnagram.cpp) | C++ |
+| 0290 | [Word Pattern](./STRING/0290-WordPattern.cpp) | C++ |
+| 0336 | [Palindrome Pairs](./STRING/0336-PalindromePairs.cpp) | C++ |
+| 0344 | [Reverse String](./STRING/0344-ReverseString.cpp) | C++ |
+| 0345 | [Reverse Vowels of a String](./STRING/0345-ReverseVowelsInString.cpp) | C++ |
+| 0383 | [Ransom Note](./STRING/0383-RansomeNote.cpp) | C++ |
+| 0392 | [Is Subsequence](./STRING/0392-IsSubsequence.cpp) | C++ |
+| 0405 | [Convert a Number to Hexadecimal](./STRING/0405-ConvertaNumberToHexadecimal.cpp) | C++ |
+| 0409 | [Longest Palindrome](./STRING/0409-LongestPalindrome.cpp) | C++ |
+| 0415 | [Add Strings](./STRING/0415-AddStrings.cpp) | C++ |
+| 0434 | [Number of Segments in a String](./STRING/0434-NumberOfSegmentInString.cpp) | C++ |
+| 0443 | [String Compression](./STRING/0443-StringCompression.cpp) | C++ |
+| 0459 | [Repeated Substring Pattern](./STRING/0459-RepeatedSubstringPattern.cpp) | C++ |
+| 0504 | [Base 7](./STRING/0504-ConvertToBase7.cpp) | C++ |
+| 0520 | [Detect Capital](./STRING/0520-DetectCaptial.cpp) | C++ |
+| 0541 | [Reverse String II](./STRING/0541-ReverseString2.cpp) | C++ |
+| 0686 | [Repeated String Match](./STRING/0686-RepeatedStringMatch.cpp) | C++ |
+| 0692 | [Top K Frequent Elements](./STRING/0692-TopKFrequentElement.cpp) | C++ |
+| 0709 | [To Lower Case](./STRING/0709-ToLowerCase.cpp) | C++ |
+| 0796 | [Rotate String](./STRING/0796-RotateString.cpp) | C++ |
+| 0819 | [Most Common Word](./STRING/0819-MostCommonWord.cpp) | C++ |
+| 0944 | [Delete Columns to Make Sorted](./STRING/0944-DeleteColumnToMakeSorted.cpp) | C++ |
+| 1021 | [Remove Outermost Parentheses](./STRING/1021-RemoveOutermostParantheses.cpp) | C++ |
+| 1108 | [Defanging an IP Address](./STRING/1108-DefangingAnIPAddress.cpp) | C++ |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./STRING/1614-MaximumNestingDepthOfParantheses.cpp) | C++ |
+| 1781 | [Sum of Beauty of All Substrings](./STRING/1781-SumOfBeautyOfAllSubstring.cpp) | C++ |
+| 1832 | [Check if the Sentence Is Pangram](./STRING/1832-CheckIfSentenceIsPangram.cpp) | C++ |
+| 1859 | [Sorting the Sentence](./STRING/1859-SortingTheSentence.cpp) | C++ |
+| 1910 | [Remove All Occurrences of a Substring](./STRING/1910-RemoveAllOccurenceOfASubstring.cpp) | C++ |
+| 2011 | [Final Value of Variable After Performing Operations](./STRING/2011-FindValueOfVariableAfterPerformingOperation.cpp) | C++ |
+| 2785 | [Sort Vowels in a String](./STRING/2785-SortVowelsInAString.cpp) | C++ |
+
+---
+
+## 📚 Stack
+
+| # | Problem | Solution |
+|---|---|---|
+| 0020 | [Valid Parentheses](./STACK/0020-ValidParantheses.cpp) | C++ |
+| 0042 | [Trapping Rain Water](./STACK/0042-TrappingRainWater.cpp) | C++ |
+| 0084 | [Largest Rectangle in Histogram](./STACK/0084-LargestRectangleInHistogram.cpp) | C++ |
+| 0085 | [Maximal Rectangle](./STACK/0085-MaximalRectangle.cpp) | C++ |
+| 0150 | [Evaluate Reverse Polish Notation](./STACK/0150-EvaluateReversePolishNotation.cpp) | C++ |
+| 0155 | [Min Stack](./STACK/0155-MinStack.cpp) | C++ |
+| 0224 | [Basic Calculator](./STACK/0224-BasicCalculator.cpp) | C++ |
+| 0225 | [Implement Stack using Queues](./STACK/0225-ImplementStackUsingQueue.cpp) | C++ |
+| 0227 | [Basic Calculator II](./STACK/0227-BasicCalculator2.cpp) | C++ |
+| 0316 | [Remove Duplicate Letters](./STACK/0316-RemoveDuplicateLetters.cpp) | C++ |
+| 0402 | [Remove K Digits](./STACK/0402-RemoveKDigits.cpp) | C++ |
+| 0496 | [Next Greater Element I](./STACK/0496-NextGreaterElement1.cpp) | C++ |
+| 0503 | [Next Greater Element II](./STACK/0503-NextGreaterElement2.cpp) | C++ |
+| 0636 | [Exclusive Time of Functions](./STACK/0636-ExclusiveTimeOfFunctions.cpp) | C++ |
+| 0678 | [Valid Parenthesis String](./STACK/0678-ValidParenthesesString.cpp) | C++ |
+| 0682 | [Baseball Game](./STACK/0682-BaseballGame.cpp) | C++ |
+| 0071 | [Simplify Path](./STACK/071-SimplifyPath.cpp) | C++ |
+| 0726 | [Number of Atoms](./STACK/0726-NumberOfAtoms.cpp) | C++ |
+| 0735 | [Asteroid Collision](./STACK/0735-AsteroidCollision.cpp) | C++ |
+| 0739 | [Daily Temperatures](./STACK/0739-DailtTemperatures.cpp) | C++ |
+| 0844 | [Backspace String Compare](./STACK/0844-BackspaceStringCompare.cpp) | C++ |
+| 0856 | [Score of Parentheses](./STACK/0856-ScoreOfParantheses.cpp) | C++ |
+| 0895 | [Maximum Frequency Stack](./STACK/0895-MaximumFrequencyStack.cpp) | C++ |
+| 0901 | [Online Stock Span](./STACK/0901-OnlineStockSpan.cpp) | C++ |
+| 0907 | [Sum of Subarray Minimums](./STACK/0907-SumOfSubarrayMinimums.cpp) | C++ |
+| 0921 | [Minimum Add to Make Parentheses Valid](./STACK/0921-MinimumToMakeParenthesesValid.cpp) |
