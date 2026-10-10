@@ -517,3 +517,59 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0901 | [Online Stock Span](./STACK/0901-OnlineStockSpan.cpp) | C++ |
 | 0907 | [Sum of Subarray Minimums](./STACK/0907-SumOfSubarrayMinimums.cpp) | C++ |
 | 0921 | [Minimum Add to Make Parentheses Valid](./STACK/0921-MinimumToMakeParenthesesValid.cpp) |
+
+---
+
+## 🪟 Sliding Window
+
+| # | Problem | Solution |
+|---|---|---|
+| 0003 | [Longest Substring Without Repeating Characters](./SLIDINGWINDOW/0003-LongestSubstringWithoutRepeatingCharacters.cpp) | C++ |
+| 0030 | [Substring With Concatenation Of All Words](./SLIDINGWINDOW/0030-SubstringWithConcatenationOfAllWords.cpp) | C++ |
+| 0076 | [Minimum Window Substring](./SLIDINGWINDOW/0076-MinimumWindowSubstring.cpp) | C++ |
+| 0209 | [Minimum Size Subarray Sum](./SLIDINGWINDOW/0209-MinimumSizeSubarraySum.cpp) | C++ |
+| 0424 | [Longest Repeating Character Replacement](./SLIDINGWINDOW/0424-LongestRepeatingCharacterReplacement.cpp) | C++ |
+| 0438 | [Find All Anagram In String](./SLIDINGWINDOW/0438-FindAllAnagramInString.cpp) | C++ |
+| 0567 | [Permutations In String](./SLIDINGWINDOW/0567-PermutationsInString.cpp) | C++ |
+| 0643 | [Maximum Average Subarray 1](./SLIDINGWINDOW/0643-MaximumAverageSubarray1.cpp) | C++ |
+| 0713 | [Subarray Product Less Than K](./SLIDINGWINDOW/0713-SubarrayProductLessThanK.cpp) | C++ |
+| 0862 | [Shortest Subarray With Sum At least K](./SLIDINGWINDOW/0862-ShortestSubarrayWithSumAtleastK.cpp) | C++ |
+| 0930 | [Binary Subarray With Sum](./SLIDINGWINDOW/0930-BinarySubarrayWithSum.cpp) | C++ |
+| 0992 | [Subarray With K Different Integers](./SLIDINGWINDOW/0992-SubarrayWithKdifferentIntegers.cpp) | C++ |
+| 1004 | [Max Consecutive One 3](./SLIDINGWINDOW/1004-MaxConsecutiveOne3.cpp) | C++ |
+| 1248 | [Count Number Of Nice Subarray](./SLIDINGWINDOW/1248-CountNumberOfNiceSubarray.cpp) | C++ |
+| 1358 | [Number Of Substring Containing All Three Characters](./SLIDINGWINDOW/1358-NumberOfSubstringContainingAllThreeCharacters.cpp) | C++ |
+| 1423 | [Maximum Point You Can Obtain From Card](./SLIDINGWINDOW/1423-MaximumPointYouCanObtainFromCard.cpp) | C++ |
+| 1838 | [Frequency Of The Most Frequent Element](./SLIDINGWINDOW/1838-FrequencyOfTheMostFrequentElement.cpp) | C++ |
+| 1984 | [Minimum Difference Between Highest And Lowest Of K Scores](./SLIDINGWINDOW/1984-MinimumDifferenceBetweenHighestAndLowestOfKScores.cpp) | C++ |
+| 2304 | [Count Subarray With Score Less Than K](./SLIDINGWINDOW/2304-CountSubarrayWithScoreLessThanK.cpp) | C++ |
+| 2444 | [Count Subarray With Fix Bounds](./SLIDINGWINDOW/2444CountSubarrayWithFixBounds.cpp) | C++ |
+| 2958 | [Length Of Longest Subarray With At Most K Frequency](./SLIDINGWINDOW/2958-LengthOfLongestSubarrayWithAtMostKFrequency.cpp) | C++ |
+| 2962 | [Count Subarray Where Max Element Appear At Least K Times](./SLIDINGWINDOW/2962-CountSubarrayWhereMaxElementAppearAtLeastKTimes.cpp) | C++ |
+| 0995 | [Minimum Number Of K Bit Flip](./SLIDINGWINDOW/995-MinimumNUMberOfKBitFlip.cpp) | C++ |
+
+---
+
+## 🌳 Trie
+
+| # | Problem | Solution |
+|---|---|---|
+| 0208 | [Implement Trie (Prefix Tree)](./TRIE/0208-ImplementTrie(PrefixTree).cpp) | C++ |
+| 0211 | [Design Add And Search Word Data Structure](./TRIE/0211-DesignAddANDSearchWordDataStructure.cpp) | C++ |
+| 0212 | [Word Search 2](./TRIE/0212-WordSearch2.cpp) | C++ |
+| 0421 | [Maximum XOR Of Two Number In An Array](./TRIE/0421-MaximumXOROfTwoNumberInAnArray.cpp) | C++ |
+| 1707 | [Maximum XOR With An Element From An Array](./TRIE/1707-MaximumXORWithAnElementFromAnArray.cpp) | C++ |
+| 1803 | [Count Pairs With XOR In A Range](./TRIE/1803-CountPairsWithXORInARange.cpp) | C++ |
+| 1938 | [Maximum Genetic Difference Query](./TRIE/1938-MaximumGeneticDifferenceQuery.cpp) | C++ |
+| 2935 | [Maximum Strong Pair XOR 2](./TRIE/2935-MaximumStrongPairXOR2.cpp) | C++ |
+
+---
+
+## 📊 Segment Tree
+
+| # | Problem | Solution |
+|---|---|---|
+| 0307 | [Range Sum Query Mutable](./SEGMENTTREE/0307-RangeSumQueryMutable.cpp) | C++ |
+| 0699 | [Falling Square](./SEGMENTTREE/0699-FallingSquare.cpp) | C++ |
+| 0850 | [Rectangle Area 2](./SEGMENTTREE/0850-RectangleArea2.cpp) | C++ |
+| 1157 | [Online Majority Element In Subarray](./SEGMENTTREE/1157-OnlineMajorityElementInSubarray.cpp) | C++ |
