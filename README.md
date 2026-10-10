@@ -237,6 +237,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0941 | [Valid Mountain Array](./SEARCHING/0941-ValidMountainArray.cpp) | C++ |
 | 0981 | [Time Based Key Value Store](./SEARCHING/0981-TimeBasedKeyValueStore.cpp) | C++ |
 | 1011 | [Capacity To Ship Package Within D Days](./SEARCHING/1011-CapacityToShipPackageWithinDDays.cpp) | C++ |
+| 1268 | [Search Suggestion system](./SEARCHING/1268-SearchSuggestionSystem.cpp) | C++ |
 | 1283 | [Find Smallest Divisor Given A Threshold](./SEARCHING/1283-FindSmallestDivisorGivenAThershold.cpp) | C++ |
 | 1351 | [Count Negative Number In A Sorted Matrix](./SEARCHING/1351-CountNegativeNumberInASortedMatrix.cpp) | C++ |
 | 1385 | [Find The Distance Between Two Array](./SEARCHING/1385-FindTheDistanceValueBetweenTwoArray.cpp) | C++ |
@@ -416,6 +417,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0560 | [Subarray Sum Equals K](./ARRAY/0560-SubarraySumEqualToK.cpp) | C++ |
 | 0705 | [Design HashSet](./ARRAY/0705-DesignHashset.cpp) | C++ |
 | 0706 | [Design HashMap](./ARRAY/0706-Designhashmap.cpp) | C++ |
+| 0720 | [Longest word in Dictionary](./ARRAY/0720-LongestWordInDictionary.cpp) | C++ |
 | 0724 | [Find Pivot Index](./ARRAY/0724-FindPivotIndex.cpp) | C++ |
 | 0974 | [Subarray Sums Divisible by K](./ARRAY/0974-SubarraySumDivisibleByK.cpp) | C++ |
 | 1250 | [Check If It Is a Good Array](./ARRAY/1250-CheckIfAGoodArray.cpp) | C++ |
