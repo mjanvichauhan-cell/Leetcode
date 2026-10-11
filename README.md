@@ -493,6 +493,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 |---|---|---|
 | 0020 | [Valid Parentheses](./STACK/0020-ValidParantheses.cpp) | C++ |
 | 0042 | [Trapping Rain Water](./STACK/0042-TrappingRainWater.cpp) | C++ |
+| 0071 | [Simplify Path](./STACK/0071-SimplifyPath.cpp) | C++ |
 | 0084 | [Largest Rectangle in Histogram](./STACK/0084-LargestRectangleInHistogram.cpp) | C++ |
 | 0085 | [Maximal Rectangle](./STACK/0085-MaximalRectangle.cpp) | C++ |
 | 0150 | [Evaluate Reverse Polish Notation](./STACK/0150-EvaluateReversePolishNotation.cpp) | C++ |
