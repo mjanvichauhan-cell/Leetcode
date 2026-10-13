@@ -421,6 +421,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0724 | [Find Pivot Index](./ARRAY/0724-FindPivotIndex.cpp) | C++ |
 | 0974 | [Subarray Sums Divisible by K](./ARRAY/0974-SubarraySumDivisibleByK.cpp) | C++ |
 | 1250 | [Check If It Is a Good Array](./ARRAY/1250-CheckIfAGoodArray.cpp) | C++ |
+| 1521 | [Find The Value Of Mysterious function close to the target](./ARRAY/1521-FindTheValueOfMysteriousFunctionCloseToTheTarget.cpp) | C++ |
 | 1823 | [Find the Winner of the Circular Game](./ARRAY/1823-FindWinnerOfCircularGame.cpp) | C++ |
 | 1909 | [Remove One Element to Make the Array Strictly Increasing](./ARRAY/1909-RemoveOneElementToMakeTheArrayStrictlyIncreasing.cpp) | C++ |
 | 1920 | [Build Array from Permutation](./ARRAY/1920-BuildARrayFromPermutation.cpp) | C++ |
