@@ -509,7 +509,6 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0636 | [Exclusive Time of Functions](./STACK/0636-ExclusiveTimeOfFunctions.cpp) | C++ |
 | 0678 | [Valid Parenthesis String](./STACK/0678-ValidParenthesesString.cpp) | C++ |
 | 0682 | [Baseball Game](./STACK/0682-BaseballGame.cpp) | C++ |
-| 0071 | [Simplify Path](./STACK/071-SimplifyPath.cpp) | C++ |
 | 0726 | [Number of Atoms](./STACK/0726-NumberOfAtoms.cpp) | C++ |
 | 0735 | [Asteroid Collision](./STACK/0735-AsteroidCollision.cpp) | C++ |
 | 0739 | [Daily Temperatures](./STACK/0739-DailtTemperatures.cpp) | C++ |
@@ -519,6 +518,13 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0901 | [Online Stock Span](./STACK/0901-OnlineStockSpan.cpp) | C++ |
 | 0907 | [Sum of Subarray Minimums](./STACK/0907-SumOfSubarrayMinimums.cpp) | C++ |
 | 0921 | [Minimum Add to Make Parentheses Valid](./STACK/0921-MinimumToMakeParenthesesValid.cpp) |
+| 0946 | [Validate Stack Sequences](./STACK/0946-ValidateStackSequences.cpp) | C++ |
+| 1047 | [Remove All adjacent Character in a String](./STACK/1047-RemoveAllAdjacentCharacterInString.cpp) | C++ |
+| 1081 | [Smallest subsequences of distinct character.cpp](./STACK/1081-SmallestSubsequenceOfDistinctCharacters.cpp) | C++ |
+| 1249 | [Minimum Remove to make valid Parantheses](./STACK/1249-MinimumRemoveToMakeVaildParantheses.cpp) | C++ |
+| 1541 | [Minimum Insertion To Balance a Parantheses](./STACK/1541-MinimumInsertionToBalanceAParanthesesString.cpp) | C++ |
+| 1544 | [Make the String Great](./STACK/1544-MakeTheStringGreat.cpp) | C++ |
+| 2104 | [Sum of Subarray ranges](./STACK/2104-SumOfSubarrayRanges.cpp) | C++ |
 
 ---
 
