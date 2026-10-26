@@ -593,7 +593,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0135 | [Candy](./GREEDY/0135-Candy.cpp) | C++ |
 | 0179 | [Largest Number](./GREEDY/0179-LargestNumber.cpp) | C++ |
 | 0435 | [Non-overlapping Intervals](./GREEDY/0435-NonOverlappingIntervals.cpp) | C++ |
-| 0452 | [Minimum Number of Arrows to Burst Balloons](./GREEDY/0452-MinimumNumberOfArrowToBurstBalloons.cpp) | C++ |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](./GREEDY/0452-MinimumNumberOfArrowToBurstBallons.cpp) | C++ |
 | 0455 | [Assign Cookies](./GREEDY/0455-AssignCookies.cpp) | C++ |
 | 0605 | [Can Place Flowers](./GREEDY/0605-CanPlaceFlower.cpp) | C++ |
 | 0621 | [Task Scheduler](./GREEDY/0621-TaskScheduler.cpp) | C++ |
@@ -652,14 +652,14 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1192 | [Critical Connections in a Network](./GRAPH/1192-CriticalConnectionInANetwork.cpp) | C++ |
 | 1319 | [Number of Operations to Make Network Connected](./GRAPH/1319-NumberOfOperationToMakeNetworkConnected.cpp) | C++ |
 | 1333 | [Find the City Restaurant by Vegan-Friendly, Price and Distance](./GRAPH/1333-FindRestrauntByVegan-Freindly,PriceAndDistance.cpp) | C++ |
-| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./GRAPH/1334-FindTheCityWithSmallestNumberOfNumbersAtThresholdDistance.cpp) | C++ |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./GRAPH/1334-FindTheCityWithSmallestNumberOfNeighborsAtThresholdDistance.cpp) | C++ |
 | 1462 | [Course Schedule IV](./GRAPH/1462-CourseSchedule4.cpp) | C++ |
 | 1584 | [Min Cost to Connect All Points](./GRAPH/1584-MinCostToConnectAllPoints.cpp) | C++ |
 | 1631 | [Path With Minimum Effort](./GRAPH/1631-PathWithMinimumEfforts.cpp) | C++ |
 | 1697 | [Checking Existence of Edge Length Limited Paths](./GRAPH/1697-CheckingExistenceOfEdgeLengthLimitedPath.cpp) | C++ |
 | 1791 | [Find Center of Star Graph](./GRAPH/1791-FindCenterOfStarGraph.cpp) | C++ |
 | 1928 | [Minimum Cost to Reach Destination in Time](./GRAPH/1928-MinimumCostToReachDestinationInTime.cpp) | C++ |
-| 1971 | [Find if Path Exists in Graph](./GRAPH/1971-FindIfPathExistinGraph.cpp) | C++ |
+| 1971 | [Find if Path Exists in Graph](./GRAPH/1971-FindIfPathExistInGraph.cpp) | C++ |
 | 1976 | [Number of Ways to Arrive at Destination](./GRAPH/1976-NumberOfWaysToArriveAtDestination.cpp) | C++ |
 | 2050 | [Parallel Courses III](./GRAPH/2050-ParallelCourses3.cpp) | C++ |
 | 2115 | [Find All Possible Recipes from Given Supplies](./GRAPH/2115-FindAllPossibleRecipesFromGivenSupplies.cpp) | C++ |
