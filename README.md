@@ -652,7 +652,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1192 | [Critical Connections in a Network](./GRAPH/1192-CriticalConnectionInANetwork.cpp) | C++ |
 | 1319 | [Number of Operations to Make Network Connected](./GRAPH/1319-NumberOfOperationToMakeNetworkConnected.cpp) | C++ |
 | 1333 | [Find the City Restaurant by Vegan-Friendly, Price and Distance](./GRAPH/1333-FindRestrauntByVegan-Freindly,PriceAndDistance.cpp) | C++ |
-| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./GRAPH/1334-FindTheCityWithSmallestNumberOfNeighborsAtThresholdDistance.cpp) | C++ |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./GRAPH/1334-FindTheCityWithSmallestNumberOfNeighborsAtThersholdDistance.cpp) | C++ |
 | 1462 | [Course Schedule IV](./GRAPH/1462-CourseSchedule4.cpp) | C++ |
 | 1584 | [Min Cost to Connect All Points](./GRAPH/1584-MinCostToConnectAllPoints.cpp) | C++ |
 | 1631 | [Path With Minimum Effort](./GRAPH/1631-PathWithMinimumEfforts.cpp) | C++ |
