@@ -581,3 +581,85 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0699 | [Falling Square](./SEGMENTTREE/0699-FallingSquare.cpp) | C++ |
 | 0850 | [Rectangle Area 2](./SEGMENTTREE/0850-RectangleArea2.cpp) | C++ |
 | 1157 | [Online Majority Element In Subarray](./SEGMENTTREE/1157-OnlineMajorityElementInSubarray.cpp) | C++ |
+
+---
+
+## 📚 Greedy
+
+| # | Problem | Solution |
+|---|---|---|
+| 0011 | [Container With Most Water](./GREEDY/0011-ContainerWithMostWater.cpp) | C++ |
+| 0134 | [Gas Station](./GREEDY/0134-GasStation.cpp) | C++ |
+| 0135 | [Candy](./GREEDY/0135-Candy.cpp) | C++ |
+| 0179 | [Largest Number](./GREEDY/0179-LargestNumber.cpp) | C++ |
+| 0435 | [Non-overlapping Intervals](./GREEDY/0435-NonOverlappingIntervals.cpp) | C++ |
+| 0452 | [Minimum Number of Arrows to Burst Balloons](./GREEDY/0452-MinimumNumberOfArrowToBurstBalloons.cpp) | C++ |
+| 0455 | [Assign Cookies](./GREEDY/0455-AssignCookies.cpp) | C++ |
+| 0605 | [Can Place Flowers](./GREEDY/0605-CanPlaceFlower.cpp) | C++ |
+| 0621 | [Task Scheduler](./GREEDY/0621-TaskScheduler.cpp) | C++ |
+| 0630 | [Course Schedule III](./GREEDY/0630-CourseSchedule3.cpp) | C++ |
+| 0670 | [Maximum Swap](./GREEDY/0670-MaximumSwap.cpp) | C++ |
+| 0763 | [Partition Labels](./GREEDY/0763-PartitionLabels.cpp) | C++ |
+| 0767 | [Reorganize String](./GREEDY/0767-ReorganizeString.cpp) | C++ |
+| 0846 | [Hand of Straights](./GREEDY/0846-HandsOfStraight.cpp) | C++ |
+| 0860 | [Lemonade Change](./GREEDY/0860-LemonadeChange.cpp) | C++ |
+| 0948 | [Bag of Tokens](./GREEDY/0948-BagsOfToken.cpp) | C++ |
+| 1520 | [Maximum Number of Non-Overlapping Substrings](./GREEDY/1520-MaximumNumberOfNon-OverlappingSubstring.cpp) | C++ |
+| 1605 | [Find Valid Matrix Given Row and Column Sums](./GREEDY/1605-FindValidMatrixGivenRowAndColumnSums.cpp) | C++ |
+| 1710 | [Maximum Units on a Truck](./GREEDY/1710-MaximumUnitOnTruck.cpp) | C++ |
+| 1833 | [Maximum Ice Cream Bars](./GREEDY/1833-MaximumIcecreamBar.cpp) | C++ |
+| 1903 | [Largest Odd Number in String](./GREEDY/1903-LargestOddNumberInAString.cpp) | C++ |
+
+---
+
+## 📚 Graph
+
+| # | Problem | Solution |
+|---|---|---|
+| 0126 | [Word Ladder II](./GRAPH/0126-WordLadder2.cpp) | C++ |
+| 0127 | [Word Ladder](./GRAPH/0127-WordLadder.cpp) | C++ |
+| 0130 | [Surrounded Regions](./GRAPH/0130-SurroundingRegion.cpp) | C++ |
+| 1489 | [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](./GRAPH/01489-FindCriticalAndPseudoCriticalEdgesInMinimumSpanningTree.cpp) | C++ |
+| 0200 | [Number of Islands](./GRAPH/0200-NoOfIslands.cpp) | C++ |
+| 0207 | [Course Schedule](./GRAPH/0207-CourseSchedule.cpp) | C++ |
+| 0210 | [Course Schedule II](./GRAPH/0210-CourseSchedule2.cpp) | C++ |
+| 0329 | [Longest Increasing Path in a Matrix](./GRAPH/0329-LongestIncreasingPathInMatrix.cpp) | C++ |
+| 0332 | [Reconstruct Itinerary](./GRAPH/0332-ReconstructItinerary.cpp) | C++ |
+| 0463 | [Island Perimeter](./GRAPH/0463-IslandPerimeter.cpp) | C++ |
+| 0547 | [Number of Provinces](./GRAPH/0547-NumberOfProvinces.cpp) | C++ |
+| 0684 | [Redundant Connection](./GRAPH/0684-RedundantConnection.cpp) | C++ |
+| 0685 | [Redundant Connection II](./GRAPH/0685-RedundantConnection2.cpp) | C++ |
+| 0695 | [Max Area of Island](./GRAPH/0695-MaxAreaOfIsland.cpp) | C++ |
+| 0721 | [Accounts Merge](./GRAPH/0721-AccountsMerge.cpp) | C++ |
+| 0733 | [Flood Fill](./GRAPH/0733-FloodFill.cpp) | C++ |
+| 0743 | [Network Delay Time](./GRAPH/0743-NetworkDelayTime.cpp) | C++ |
+| 0752 | [Open the Lock](./GRAPH/0752-OpenTheLock.cpp) | C++ |
+| 0778 | [Swim in Rising Water](./GRAPH/0778-SwimInRisingWater.cpp) | C++ |
+| 0785 | [Is Graph Bipartite?](./GRAPH/0785-IsGraphBipartite.cpp) | C++ |
+| 0787 | [Cheapest Flights Within K Stops](./GRAPH/0787-CheapestFlightWithinKSteps.cpp) | C++ |
+| 0802 | [Find Eventual Safe States](./GRAPH/0802-FindEventualSafeState.cpp) | C++ |
+| 0803 | [Bricks Falling When Hit](./GRAPH/0803-BricksFallingWhenHits.cpp) | C++ |
+| 0827 | [Making A Large Island](./GRAPH/0827-MakingALargeIsland.cpp) | C++ |
+| 0841 | [Keys and Rooms](./GRAPH/0841-KeysAndRooms.cpp) | C++ |
+| 0882 | [Reachable Nodes In Subdivided Graph](./GRAPH/0882-ReachableNodeInSubdividedGraph.cpp) | C++ |
+| 0909 | [Snakes and Ladders](./GRAPH/0909-SnakeAndLadders.cpp) | C++ |
+| 0947 | [Most Stones Removed with Same Row or Column](./GRAPH/0947-MostRowRemovedWithsameRowAndColumn.cpp) | C++ |
+| 0994 | [Rotting Oranges](./GRAPH/0994-RottingOranges.cpp) | C++ |
+| 0997 | [Find the Town Judge](./GRAPH/0997-FindTheTownJudge.cpp) | C++ |
+| 1020 | [Number of Enclaves](./GRAPH/1020-NumberOfEnclaves.cpp) | C++ |
+| 1091 | [Shortest Path in Binary Matrix](./GRAPH/1091-ShortestPathInBinaryMatrix.cpp) | C++ |
+| 1129 | [Shortest Path with Alternating Colors](./GRAPH/1129-ShortestPathWithAlternatingColors.cpp) | C++ |
+| 1192 | [Critical Connections in a Network](./GRAPH/1192-CriticalConnectionInANetwork.cpp) | C++ |
+| 1319 | [Number of Operations to Make Network Connected](./GRAPH/1319-NumberOfOperationToMakeNetworkConnected.cpp) | C++ |
+| 1333 | [Find the City Restaurant by Vegan-Friendly, Price and Distance](./GRAPH/1333-FindRestrauntByVegan-Freindly,PriceAndDistance.cpp) | C++ |
+| 1334 | [Find the City With the Smallest Number of Neighbors at a Threshold Distance](./GRAPH/1334-FindTheCityWithSmallestNumberOfNumbersAtThresholdDistance.cpp) | C++ |
+| 1462 | [Course Schedule IV](./GRAPH/1462-CourseSchedule4.cpp) | C++ |
+| 1584 | [Min Cost to Connect All Points](./GRAPH/1584-MinCostToConnectAllPoints.cpp) | C++ |
+| 1631 | [Path With Minimum Effort](./GRAPH/1631-PathWithMinimumEfforts.cpp) | C++ |
+| 1697 | [Checking Existence of Edge Length Limited Paths](./GRAPH/1697-CheckingExistenceOfEdgeLengthLimitedPath.cpp) | C++ |
+| 1791 | [Find Center of Star Graph](./GRAPH/1791-FindCenterOfStarGraph.cpp) | C++ |
+| 1928 | [Minimum Cost to Reach Destination in Time](./GRAPH/1928-MinimumCostToReachDestinationInTime.cpp) | C++ |
+| 1971 | [Find if Path Exists in Graph](./GRAPH/1971-FindIfPathExistinGraph.cpp) | C++ |
+| 1976 | [Number of Ways to Arrive at Destination](./GRAPH/1976-NumberOfWaysToArriveAtDestination.cpp) | C++ |
+| 2050 | [Parallel Courses III](./GRAPH/2050-ParallelCourses3.cpp) | C++ |
+| 2115 | [Find All Possible Recipes from Given Supplies](./GRAPH/2115-FindAllPossibleRecipesFromGivenSupplies.cpp) | C++ |
