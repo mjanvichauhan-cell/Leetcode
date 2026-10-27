@@ -164,7 +164,6 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0779 | [K-th Symbol In Grammar](./RECURSION/0779-KthSymbolInGrammar.cpp) | C++ |
 | 1486 | [XOR Operation In An Array](./RECURSION/1486-XOROperationInAnArray.cpp) | C++ |
 | 1863 | [Sum Of All Subset XOR Totals](./RECURSION/1863-SumOfAllSubsetXORTotal.cpp) | C++ |
-| 1922 | [Count Good Numbers](./RECURSION/1922-CountGoodNumber.cpp) | C++ |
 | 1979 | [Find Greatest Common Divisor Of Array](./RECURSION/1979-FindGreatestCommonDivisorOfArray.cpp) | C++ |
 | 2596 | [Check Knight Tour Configuration](./RECURSION/2596-CheckKnightTourConfiguration.cpp) | C++ |
 
@@ -284,7 +283,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1122 | [Relative Sort Array](./SORTING/1122-RelativeSortArray.cpp) | C++ |
 | 1329 | [Sort Matrix Diagonally](./SORTING/1329-SortMatricDiagnolly.cpp) | C++ |
 | 1346 | [Check If N And Its Double Exist](./SORTING/1346-CheckIfNAndItsDoubleExist.cpp) | C++ |
-| 1354 | [How Many Numbers Are Smaller Than The Current Number](./SORTING/1354-HowManyNumbersAreSmallerThanTheCurrentNumber.cpp) | C++ |
+| 1365 | [How Many Numbers Are Smaller Than The Current Number](./SORTING/1354-HowManyNumbersAreSmallerThanTheCurrentNumber.cpp) | C++ |
 | 1508 | [Range Sum Of Sorted SubArray Sum](./SORTING/1508-RangeSumOfSortedSubarraySums.cpp) | C++ |
 | 1752 | [Check Array Is Sorted And Rotated](./SORTING/1752-CheckArrayIsSortedAndRotated.cpp) | C++ |
 | 2089 | [Find Target Indices After Sorting Array](./SORTING/2089-FindTragetIndicesAfterSortingArray.cpp) | C++ |
@@ -451,7 +450,6 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0151 | [Reverse Words in a String](./STRING/0151-ReverseWordsInString.cpp) | C++ |
 | 0168 | [Excel Sheet Column Title](./STRING/0168-ExcelSheetColumnTitle.cpp) | C++ |
 | 0171 | [Excel Sheet Column Number](./STRING/0171-ExcelSheetColumnNumber.cpp) | C++ |
-| 0179 | [Largest Number](./STRING/0179-LargestNumber.cpp) | C++ |
 | 0205 | [Isomorphic Strings](./STRING/0205-IsomorphicString.cpp) | C++ |
 | 0214 | [Shortest Palindrome](./STRING/0214-ShortestPalindrome.cpp) | C++ |
 | 0242 | [Valid Anagram](./STRING/0242-ValidAnagram.cpp) | C++ |
@@ -471,7 +469,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0520 | [Detect Capital](./STRING/0520-DetectCaptial.cpp) | C++ |
 | 0541 | [Reverse String II](./STRING/0541-ReverseString2.cpp) | C++ |
 | 0686 | [Repeated String Match](./STRING/0686-RepeatedStringMatch.cpp) | C++ |
-| 0692 | [Top K Frequent Elements](./STRING/0692-TopKFrequentElement.cpp) | C++ |
+| 0692 | [Top K Frequent Word](./STRING/0692-TopKFrequentWord.cpp) | C++ |
 | 0709 | [To Lower Case](./STRING/0709-ToLowerCase.cpp) | C++ |
 | 0796 | [Rotate String](./STRING/0796-RotateString.cpp) | C++ |
 | 0819 | [Most Common Word](./STRING/0819-MostCommonWord.cpp) | C++ |
