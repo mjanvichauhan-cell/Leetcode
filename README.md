@@ -204,6 +204,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1523 | [Count Odd Number In An Interval Range](./MATHS/1523-CountOddNumberInAnIntervalRange.cpp) | C++ |
 | 1588 | [Sum Of All Odd Length Subarray](./MATHS/1588-SumOfAllOddLengthSubarray.cpp) | C++ |
 | 2235 | [Add Two Number](./MATHS/2235-AddTwoNumber.cpp) | C++ |
+| 2521 | [Distunct Prime Factor of Product Of Array](./MATHS/2521-DistinctPrimeFactorOfProductOfArray.cpp) | C++ |
 | 2965 | [Find Missing and Repeated Value](./MATHS/2965-FindMissingAndRepeatedValue.cpp) | C++ |
 
 ---
@@ -476,6 +477,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0944 | [Delete Columns to Make Sorted](./STRING/0944-DeleteColumnToMakeSorted.cpp) | C++ |
 | 1021 | [Remove Outermost Parentheses](./STRING/1021-RemoveOutermostParantheses.cpp) | C++ |
 | 1108 | [Defanging an IP Address](./STRING/1108-DefangingAnIPAddress.cpp) | C++ |
+| 1392 | [Longest Happy Prefix](./STRING/1392-LongestHappyPrefix.cpp) | C++ |
 | 1614 | [Maximum Nesting Depth of the Parentheses](./STRING/1614-MaximumNestingDepthOfParantheses.cpp) | C++ |
 | 1781 | [Sum of Beauty of All Substrings](./STRING/1781-SumOfBeautyOfAllSubstring.cpp) | C++ |
 | 1832 | [Check if the Sentence Is Pangram](./STRING/1832-CheckIfSentenceIsPangram.cpp) | C++ |
