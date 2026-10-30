@@ -669,7 +669,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 
 ---
 
-## Dynamic 
+## DynamicProgramming
 
 | # | Problem | Solution |
 |---|---|---|
