@@ -666,3 +666,83 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1976 | [Number of Ways to Arrive at Destination](./GRAPH/1976-NumberOfWaysToArriveAtDestination.cpp) | C++ |
 | 2050 | [Parallel Courses III](./GRAPH/2050-ParallelCourses3.cpp) | C++ |
 | 2115 | [Find All Possible Recipes from Given Supplies](./GRAPH/2115-FindAllPossibleRecipesFromGivenSupplies.cpp) | C++ |
+
+---
+
+## Dynamic 
+
+| # | Problem | Solution |
+|---|---|---|
+| 0010 | [Regular Expression Matching](./DYNAMICPROGRAMING/0010-RegularStringExpression.cpp) | C++ |
+| 0044 | [Wildcard Matching](./DYNAMICPROGRAMING/0044-WildCardMatching.cpp) | C++ |
+| 0045 | [Jump Game 2](./DYNAMICPROGRAMING/0045-JumpGame2.cpp) | C++ |
+| 0052 | [Maximum Subarray](./DYNAMICPROGRAMING/0052-MaximumSubarray.cpp) | C++ |
+| 0055 | [Jump Game](./DYNAMICPROGRAMING/0055-JumpGame.cpp) | C++ |
+| 0062 | [Unique Paths](./DYNAMICPROGRAMING/0062-UniquePath.cpp) | C++ |
+| 0063 | [Unique Paths 2](./DYNAMICPROGRAMING/0063-UniquePaths2.cpp) | C++ |
+| 0064 | [Minimum Path Sum](./DYNAMICPROGRAMING/0064-MinimumPathSum.cpp) | C++ |
+| 0070 | [Climbing Stairs](./DYNAMICPROGRAMING/0070-ClimbingStairs.cpp) | C++ |
+| 0072 | [Edit Distance](./DYNAMICPROGRAMING/0072-EditDistance.cpp) | C++ |
+| 0115 | [Distinct Subsequences](./DYNAMICPROGRAMING/0115-DistinctSubsequences.cpp) | C++ |
+| 0120 | [Triangle](./DYNAMICPROGRAMING/0120-Triangle.cpp) | C++ |
+| 0121 | [Best Time to Buy and Sell Stock](./DYNAMICPROGRAMING/0121-BestTimeToBuyAndSellStock.cpp) | C++ |
+| 0122 | [Best Time to Buy and Sell Stock 2](./DYNAMICPROGRAMING/0122-BestTimeToBuyAndSellStock2.cpp) | C++ |
+| 0123 | [Best Time to Buy and Sell Stock 3](./DYNAMICPROGRAMING/0123-BestTimeToBuyAndSellStock3.cpp) | C++ |
+| 0132 | [Palindrome Partitioning 2](./DYNAMICPROGRAMING/0132-PalindromicPartitioning2.cpp) | C++ |
+| 0139 | [Word Break](./DYNAMICPROGRAMING/0139-WordBreak.cpp) | C++ |
+| 0152 | [Maximum Product Subarray](./DYNAMICPROGRAMING/0152-MaximumProductSubarray.cpp) | C++ |
+| 0174 | [Dungeon Game](./DYNAMICPROGRAMING/0174-DungeonGame.cpp) | C++ |
+| 0188 | [Best Time to Buy and Sell Stock 4](./DYNAMICPROGRAMING/0188-BestTimeToBuyandSellStock4.cpp) | C++ |
+| 0198 | [House Robber](./DYNAMICPROGRAMING/0198-HouseRobber.cpp) | C++ |
+| 0213 | [House Robber 2](./DYNAMICPROGRAMING/0213-HouseRobber2.cpp) | C++ |
+| 0221 | [Maximal Square](./DYNAMICPROGRAMING/0221-MaximalSquare.cpp) | C++ |
+| 0264 | [Ugly Number 2](./DYNAMICPROGRAMING/0264-UglyNumber2.cpp) | C++ |
+| 0279 | [Perfect Squares](./DYNAMICPROGRAMING/0279-PerfectSquares.cpp) | C++ |
+| 0300 | [Longest Increasing Subsequence](./DYNAMICPROGRAMING/0300-LongestIncreasingSubsequence.cpp) | C++ |
+| 0309 | [Best Time to Sell and Buy Stock with Cooldown](./DYNAMICPROGRAMING/0309-BestTimeToSellAndBuyStockWithCooldown.cpp) | C++ |
+| 0312 | [Burst Balloons](./DYNAMICPROGRAMING/0312-BurstBalloons.cpp) | C++ |
+| 0322 | [Coin Change](./DYNAMICPROGRAMING/0322-CoinChange.cpp) | C++ |
+| 0343 | [Integer Break](./DYNAMICPROGRAMING/0343-IntegerBreak.cpp) | C++ |
+| 0354 | [Russian Doll Envelopes](./DYNAMICPROGRAMING/0354-RussianDollEnvelopes.cpp) | C++ |
+| 0368 | [Largest Divisible Subset](./DYNAMICPROGRAMING/0368-LargestDivisibleSubset.cpp) | C++ |
+| 0375 | [Guess Number Higher or Lower 2](./DYNAMICPROGRAMING/0375-GuessNumberHigherOrLower2.cpp) | C++ |
+| 0377 | [Combination Sum 4](./DYNAMICPROGRAMING/0377-CombinationSum4.cpp) | C++ |
+| 0416 | [Partition Equal Subset Sum](./DYNAMICPROGRAMING/0416-PartitionEqualSubset.cpp) | C++ |
+| 0486 | [Predict the Winner](./DYNAMICPROGRAMING/0486-PredictTheWinner.cpp) | C++ |
+| 0494 | [Target Sum](./DYNAMICPROGRAMING/0494-TargetSum.cpp) | C++ |
+| 0516 | [Longest Palindromic Subsequence](./DYNAMICPROGRAMING/0516-LongestPalindromicSubsequences.cpp) | C++ |
+| 0518 | [Coin Change 2](./DYNAMICPROGRAMING/0518-CoinChange2.cpp) | C++ |
+| 0542 | [01 Matrix](./DYNAMICPROGRAMING/0542-01Matrix.cpp) | C++ |
+| 0583 | [Delete Operation for Two Strings](./DYNAMICPROGRAMING/0583-DeleteOperationForTwoStrings.cpp) | C++ |
+| 0600 | [Non-negative Integers without Consecutive Ones](./DYNAMICPROGRAMING/0600-NonNegativeIntegerWithConsecutiveOnes.cpp) | C++ |
+| 0673 | [Number of Longest Increasing Subsequence](./DYNAMICPROGRAMING/0673-NumberOfLongestIncreasingSubsequence.cpp) | C++ |
+| 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](./DYNAMICPROGRAMING/0714-BestTimeToSellAndBuyStockWithTransactionFee.cpp) | C++ |
+| 0746 | [Min Cost Climbing Stairs](./DYNAMICPROGRAMING/0746-MinCostClimbingStairs.cpp) | C++ |
+| 0790 | [Domino and Tromino Tiling](./DYNAMICPROGRAMING/0790-DominoAndTrominoTiling.cpp) | C++ |
+| 0792 | [Number of Matching Subsequences](./DYNAMICPROGRAMING/0792-NumberOfMatchingSubsequences.cpp) | C++ |
+| 0801 | [Minimum Swaps To Make Sequences Increasing](./DYNAMICPROGRAMING/0801-MinimumSwapToMakeSequenceIncreasing.cpp) | C++ |
+| 0887 | [Super Egg Drop](./DYNAMICPROGRAMING/0887-SuperEggDrop.cpp) | C++ |
+| 0918 | [Maximum Sum Circular Subarray](./DYNAMICPROGRAMING/0918-MaximumSumCircularSubarray.cpp) | C++ |
+| 0983 | [Minimum Cost For Tickets](./DYNAMICPROGRAMING/0983-MinimumCostForTickets.cpp) | C++ |
+| 1027 | [Longest Arithmetic Subsequence](./DYNAMICPROGRAMING/1027-LongestArithmeticSubsequences.cpp) | C++ |
+| 1039 | [Minimum Score Triangulation of Polygon](./DYNAMICPROGRAMING/1039-MinimumScoreTriangulationOfPolygon.cpp) | C++ |
+| 1043 | [Partition Array for Maximum Sum](./DYNAMICPROGRAMING/1043-PartitionArrayForMaximumSum.cpp) | C++ |
+| 1048 | [Longest String Chain](./DYNAMICPROGRAMING/1048-LongestStringChain.cpp) | C++ |
+| 1092 | [Shortest Common Supersequence](./DYNAMICPROGRAMING/1092-ShortestCommonSupersequence.cpp) | C++ |
+| 1130 | [Minimum Cost Tree From Leaf Values](./DYNAMICPROGRAMING/1130-MinimumCostTreeFromLeafValues.cpp) | C++ |
+| 1137 | [N-th Tribonacci Number](./DYNAMICPROGRAMING/1137-Nth-TribonacciSeries.cpp) | C++ |
+| 1143 | [Longest Common Subsequence](./DYNAMICPROGRAMING/1143-LongestCommonSubsequences.cpp) | C++ |
+| 1155 | [Number of Dice Rolls With Target Sum](./DYNAMICPROGRAMING/1155-NumberOfDiceRollsWithTargetSum.cpp) | C++ |
+| 1218 | [Longest Arithmetic Subsequence of Given Difference](./DYNAMICPROGRAMING/1218-LongestArithmeticSubsequenceOfGivenDifference.cpp) | C++ |
+| 1277 | [Count Square Submatrices with All Ones](./DYNAMICPROGRAMING/1277-CountSquareSubmatricesWithAllOnes.cpp) | C++ |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](./DYNAMICPROGRAMING/1312-MinimumInsertionStepsToMakeAStringPalindrome.cpp) | C++ |
+| 1388 | [Pizza With 3n Slices](./DYNAMICPROGRAMING/1388-PizzaWith3nSlices.cpp) | C++ |
+| 1402 | [Reducing Dishes](./DYNAMICPROGRAMING/1402-ReducingDishes.cpp) | C++ |
+| 1494 | [Parallel Courses 2](./DYNAMICPROGRAMING/1494-ParallelCourse2.cpp) | C++ |
+| 1547 | [Minimum Cost to Cut a Stick](./DYNAMICPROGRAMING/1547MinCostToCutAStick.cpp) | C++ |
+| 1691 | [Maximum Height by Stacking Cuboids](./DYNAMICPROGRAMING/1691-MaximumHeightByStackingCuboids.cpp) | C++ |
+| 1824 | [Minimum Sideway Jumps](./DYNAMICPROGRAMING/1824-MinimumSidewaysJump.cpp) | C++ |
+| 1879 | [Minimum XOR Sum of Two Arrays](./DYNAMICPROGRAMING/1879-MinimumXORSumOfTwoArray.cpp) | C++ |
+| 2484 | [Count Palindromic Subsequences](./DYNAMICPROGRAMING/2484-CountPalindromicSubsequences.cpp) | C++ |
+| 2999 | [Count Number of Powerful Integers](./DYNAMICPROGRAMING/2999-CountNumberOfPowerfulInteger.cpp) | C++ |
+| 3193 | [Count Number of Inversions](./DYNAMICPROGRAMING/3193-CountNumberOfInversions.cpp) | C++ |
