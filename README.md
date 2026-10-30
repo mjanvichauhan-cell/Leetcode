@@ -739,7 +739,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 1388 | [Pizza With 3n Slices](./DYNAMICPROGRAMING/1388-PizzaWith3nSlices.cpp) | C++ |
 | 1402 | [Reducing Dishes](./DYNAMICPROGRAMING/1402-ReducingDishes.cpp) | C++ |
 | 1494 | [Parallel Courses 2](./DYNAMICPROGRAMING/1494-ParallelCourse2.cpp) | C++ |
-| 1547 | [Minimum Cost to Cut a Stick](./DYNAMICPROGRAMING/1547MinCostToCutAStick.cpp) | C++ |
+| 1547 | [Minimum Cost to Cut a Stick](./DYNAMICPROGRAMING/1547-MinCostToCutAStick.cpp) | C++ |
 | 1691 | [Maximum Height by Stacking Cuboids](./DYNAMICPROGRAMING/1691-MaximumHeightByStackingCuboids.cpp) | C++ |
 | 1824 | [Minimum Sideway Jumps](./DYNAMICPROGRAMING/1824-MinimumSidewaysJump.cpp) | C++ |
 | 1879 | [Minimum XOR Sum of Two Arrays](./DYNAMICPROGRAMING/1879-MinimumXORSumOfTwoArray.cpp) | C++ |
