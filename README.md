@@ -523,7 +523,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0946 | [Validate Stack Sequences](./STACK/0946-ValidateStackSequences.cpp) | C++ |
 | 1047 | [Remove All adjacent Character in a String](./STACK/1047-RemoveAllAdjacentCharacterInString.cpp) | C++ |
 | 1081 | [Smallest subsequences of distinct character](./STACK/1081-SmallestSubsequenceOfDistinctCharacters.cpp) | C++ |
-| 1081 | [Parsing a Boolean expression](./STACK/1106-ParsingABooleanExpression.cpp) | C++ |
+| 1106 | [Parsing a Boolean expression](./STACK/1106-ParsingABooleanExpression.cpp) | C++ |
 | 1249 | [Minimum Remove to make valid Parantheses](./STACK/1249-MinimumRemoveToMakeVaildParantheses.cpp) | C++ |
 | 1541 | [Minimum Insertion To Balance a Parantheses](./STACK/1541-MinimumInsertionToBalanceAParanthesesString.cpp) | C++ |
 | 1544 | [Make the String Great](./STACK/1544-MakeTheStringGreat.cpp) | C++ |
@@ -676,7 +676,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0010 | [Regular Expression Matching](./DYNAMICPROGRAMING/0010-RegularStringExpression.cpp) | C++ |
 | 0044 | [Wildcard Matching](./DYNAMICPROGRAMING/0044-WildCardMatching.cpp) | C++ |
 | 0045 | [Jump Game 2](./DYNAMICPROGRAMING/0045-JumpGame2.cpp) | C++ |
-| 0052 | [Maximum Subarray](./DYNAMICPROGRAMING/0052-MaximumSubarray.cpp) | C++ |
+| 0053 | [Maximum Subarray](./DYNAMICPROGRAMING/0052-MaximumSubarray.cpp) | C++ |
 | 0055 | [Jump Game](./DYNAMICPROGRAMING/0055-JumpGame.cpp) | C++ |
 | 0062 | [Unique Paths](./DYNAMICPROGRAMING/0062-UniquePath.cpp) | C++ |
 | 0063 | [Unique Paths 2](./DYNAMICPROGRAMING/0063-UniquePaths2.cpp) | C++ |
