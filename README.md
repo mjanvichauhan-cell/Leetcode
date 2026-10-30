@@ -75,6 +75,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0131 | [Palindrome Partition](./BACKTRACKING/0131-PalindromePartition.cpp) | C++ |
 | 0216 | [Combination Sum 3](./BACKTRACKING/0216-CombinationSum3.cpp) | C++ |
 | 0282 | [Expression Add Operator](./BACKTRACKING/0282-ExpressionAddOperator.cpp) | C++ |
+| 0301 | [Remove All Invalid Parantheses](./BACKTRACKING/0301-RemoveInvalidParantheses.cpp) | C++ |
 | 0698 | [Partition To K Equal Sum Subset](./BACKTRACKING/0698-PartitionToKEqualSumSubset.cpp) | C++ |
 | 0784 | [Letter Case Permutation](./BACKTRACKING/0784-LetterCasePermutation.cpp) | C++ |
 | 0980 | [Unique Path 3](./BACKTRACKING/0980-UniquePath3.cpp) | C++ |
@@ -201,6 +202,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0858 | [Mirror Reflection](./MATHS/0858-MirrorReflection.cpp) | C++ |
 | 1017 | [Convert To Base 2](./MATHS/1017-ConverToBase2.cpp) | C++ |
 | 1281 | [Subtract The Product And Sum Of An Integer](./MATHS/1281-SubtractTheProductAndSumOfAnInteger.cpp) | C++ |
+| 1359 | [Find All valid pickup and Delivery Options](./MATHS/1359-FindAllValidPickupAndDeliveryOptions.cpp) | C++ |
 | 1523 | [Count Odd Number In An Interval Range](./MATHS/1523-CountOddNumberInAnIntervalRange.cpp) | C++ |
 | 1588 | [Sum Of All Odd Length Subarray](./MATHS/1588-SumOfAllOddLengthSubarray.cpp) | C++ |
 | 2235 | [Add Two Number](./MATHS/2235-AddTwoNumber.cpp) | C++ |
@@ -520,7 +522,8 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0921 | [Minimum Add to Make Parentheses Valid](./STACK/0921-MinimumToMakeParenthesesValid.cpp) |
 | 0946 | [Validate Stack Sequences](./STACK/0946-ValidateStackSequences.cpp) | C++ |
 | 1047 | [Remove All adjacent Character in a String](./STACK/1047-RemoveAllAdjacentCharacterInString.cpp) | C++ |
-| 1081 | [Smallest subsequences of distinct character.cpp](./STACK/1081-SmallestSubsequenceOfDistinctCharacters.cpp) | C++ |
+| 1081 | [Smallest subsequences of distinct character](./STACK/1081-SmallestSubsequenceOfDistinctCharacters.cpp) | C++ |
+| 1081 | [Parsing a Boolean expression](./STACK/1106-ParsingABooleanExpression.cpp) | C++ |
 | 1249 | [Minimum Remove to make valid Parantheses](./STACK/1249-MinimumRemoveToMakeVaildParantheses.cpp) | C++ |
 | 1541 | [Minimum Insertion To Balance a Parantheses](./STACK/1541-MinimumInsertionToBalanceAParanthesesString.cpp) | C++ |
 | 1544 | [Make the String Great](./STACK/1544-MakeTheStringGreat.cpp) | C++ |
