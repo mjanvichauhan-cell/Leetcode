@@ -700,7 +700,7 @@ My solutions to LeetCode problems in C++, organized by problem number.
 | 0279 | [Perfect Squares](./DYNAMICPROGRAMING/0279-PerfectSquares.cpp) | C++ |
 | 0300 | [Longest Increasing Subsequence](./DYNAMICPROGRAMING/0300-LongestIncreasingSubsequence.cpp) | C++ |
 | 0309 | [Best Time to Sell and Buy Stock with Cooldown](./DYNAMICPROGRAMING/0309-BestTimeToSellAndBuyStockWithCooldown.cpp) | C++ |
-| 0312 | [Burst Balloons](./DYNAMICPROGRAMING/0312-BurstBalloons.cpp) | C++ |
+| 0312 | [Burst Ballons](./DYNAMICPROGRAMING/0312-BurstBallons.cpp) | C++ |
 | 0322 | [Coin Change](./DYNAMICPROGRAMING/0322-CoinChange.cpp) | C++ |
 | 0343 | [Integer Break](./DYNAMICPROGRAMING/0343-IntegerBreak.cpp) | C++ |
 | 0354 | [Russian Doll Envelopes](./DYNAMICPROGRAMING/0354-RussianDollEnvelopes.cpp) | C++ |
